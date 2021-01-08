@@ -1,11 +1,13 @@
 import React from 'react'
 import './button.sass'
+import { Link } from 'react-router-dom';
 
-const Button = ({text}) => {
+const Button = ({text, path}) => {
     return (
-        <div className='button'>
-            {text}
-        </div>
+        <Link to={path} className='button'>
+        {text}
+        </Link>
+        
     )
 }
 

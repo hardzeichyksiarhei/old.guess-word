@@ -1,5 +1,6 @@
 import React, {useState} from 'react'
 import {connect} from 'react-redux'
+import '../assets/sass/setup.sass'
 import edit from '../assets/edit.svg'
 import plus from '../assets/plus.svg'
 
