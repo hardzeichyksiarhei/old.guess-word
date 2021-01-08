@@ -8,13 +8,13 @@ const asyncWords = async () => {
 }
 
 export function* fetchWords() {
-  try {
-    yield put(actions.requestedUser())
-    const user = yield call(asyncWords)
-    yield put(actions.requestedUserSuccess(user))
-  } catch (error) {
-    yield put(actions.requestedUserError())
-  }
+  // try {
+  //   yield put(actions.requestedUser())
+  //   const user = yield call(asyncWords)
+  //   yield put(actions.requestedUserSuccess(user))
+  // } catch (error) {
+  //   yield put(actions.requestedUserError())
+  // }
 }
 
 export default function* watchAuth() {

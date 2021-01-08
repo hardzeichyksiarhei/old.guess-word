@@ -1,7 +1,7 @@
 import React from 'react'
 import './button.sass'
 
-const Button = (text) => {
+const Button = ({text}) => {
     return (
         <div className='button'>
             {text}
