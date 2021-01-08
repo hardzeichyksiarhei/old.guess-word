@@ -1,9 +1,11 @@
 import './App.scss';
 
+import Router from './router/Router'
+
 function App() {
   return (
     <div className="App">
-      App
+      <Router />
     </div>
   );
 }
