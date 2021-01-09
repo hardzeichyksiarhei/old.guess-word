@@ -1,7 +1,7 @@
 import React from "react";
 import "../assets/sass/home.sass";
 import logo from "../assets/logo.svg"
-import Button from "../components/button"
+import Button from "../components/Button"
 
 const Home = () => {
     return (
