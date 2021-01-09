@@ -14,6 +14,8 @@
 
 .default-layout {
     padding: 30px;
+    max-width: 1024px;
+    margin: 0 auto;
 }
 
 .page-title {
@@ -40,6 +42,7 @@
 .welcome-page {
     &__app-logo {
         display: block;
+        max-width: 600px;
         width: 100%;
         height: auto;
         margin: 30px auto;

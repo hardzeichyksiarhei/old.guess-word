@@ -72,6 +72,7 @@ const PlayersList = () => {
         visible={isModalVisible}
         footer={null}
         closable={false}
+        centered
       >
         {editPlayer ? (
           <EditPlayer
