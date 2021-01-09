@@ -1,34 +1,30 @@
-import React, { lazy, Suspense } from "react";
+import React, { lazy } from "react";
 
-const Home = lazy(() => import("../pages/home"));
+import Default from "../layouts/Default";
+
+import Home from "../pages/Home";
+
 const Categories = lazy(() => import("../pages/Categories"));
-
-const Setup = lazy(() => import("../pages/setup"));
+const Settings = lazy(() => import("../pages/Settings"));
 
 const routes = () => [
   {
     path: "/",
-    element: (
-      <Suspense fallback={null}>
-        <Home />
-      </Suspense>
-    ),
-  },
-  {
-    path: "/categories",
-    element: (
-      <Suspense fallback={null}>
-        <Categories />
-      </Suspense>
-    ),
-  },
-  {
-    path: "/setup",
-    element: (
-      <Suspense fallback={null}>
-        <Setup />
-      </Suspense>
-    ),
+    element: <Default />,
+    children: [
+      {
+        path: "/",
+        element: <Home />,
+      },
+      {
+        path: "/categories",
+        element: <Categories />,
+      },
+      {
+        path: "/settings",
+        element: <Settings />,
+      },
+    ],
   },
 ];
 
