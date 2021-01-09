@@ -52,7 +52,7 @@ const EditPlayer = (props) => {
             key={idx}
           >
             <img
-              src={`./img/avatars/${idx + 1}.png`}
+              src={`./img/avatars/${idx + 1}.jpg`}
               alt={`Avatar #${idx + 1}`}
             />
           </div>

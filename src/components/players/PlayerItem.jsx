@@ -16,7 +16,7 @@ const PlayerItem = (props) => {
 
   return (
     <List.Item className="player-item">
-      <img className="player-item__avatar" src={`./img/avatars/${props.player.avatar}.png`} alt="" />
+      <img className="player-item__avatar" src={`./img/avatars/${props.player.avatar}.jpg`} alt="" />
       <div className="player-item__name">{props.player.name}</div>
       <div className="player-item__controls">
         <Space>
