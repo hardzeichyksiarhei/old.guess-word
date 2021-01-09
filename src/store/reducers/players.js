@@ -1,25 +1,25 @@
 import { v4 as uuid } from "uuid";
 
-import * as types from "../types/game";
+import * as types from "../types/players";
 
 const initialState = {
   players: [
-    // {
-    //   id: 1,
-    //   name: "",
-    //   avatar: "",
-    //   score: 1,
-    //   time: 360,
-    //   weight: 20,
-    // },
-    // {
-    //   id: 2,
-    //   name: "",
-    //   avatar: "",
-    //   score: 1,
-    //   time: 360,
-    //   weight: 20,
-    // },
+    {
+      id: uuid(),
+      name: "Player 1",
+      avatar: "https://via.placeholder.com/150",
+      score: 1,
+      time: 1,
+      weight: 1,
+    },
+    {
+      id: uuid(),
+      name: "Player 2",
+      avatar: "https://via.placeholder.com/150",
+      score: 1,
+      time: 1,
+      weight: 1,
+    },
   ],
 };
 
@@ -30,7 +30,7 @@ const reducer = (state = initialState, action) => {
       return {
         ...state,
         players: [
-          ...state.player,
+          ...state.players,
           {
             ...action.payload.player,
             id: uuid(),
@@ -39,6 +39,16 @@ const reducer = (state = initialState, action) => {
             weight: 1,
           },
         ],
+      };
+    }
+
+    // Delete player
+    case types.DELETE_PLAYER: {
+      return {
+        ...state,
+        players: state.players.filter(
+          (player) => player.id !== action.payload.playerId
+        ),
       };
     }
 
