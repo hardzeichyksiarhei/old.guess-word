@@ -45,9 +45,24 @@ const reducer = (state = initialState, action) => {
     // Delete player
     case types.DELETE_PLAYER: {
       return {
-        ...state,
+        ...state.players,
         players: state.players.filter(
           (player) => player.id !== action.payload.playerId
+        ),
+      };
+    }
+
+    // Update player
+    case types.UPDATE_PLAYER: {
+      return {
+        ...state.players,
+        players: state.players.map((player) =>
+          player.id === action.payload.playerId
+            ? {
+                ...player,
+                ...action.payload.player,
+              }
+            : player
         ),
       };
     }
