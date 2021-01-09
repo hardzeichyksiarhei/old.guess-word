@@ -7,7 +7,7 @@ const initialState = {
     {
       id: uuid(),
       name: "Player 1",
-      avatar: "https://via.placeholder.com/150",
+      avatar: 1,
       score: 1,
       time: 1,
       weight: 1,
@@ -15,7 +15,7 @@ const initialState = {
     {
       id: uuid(),
       name: "Player 2",
-      avatar: "https://via.placeholder.com/150",
+      avatar: 1,
       score: 1,
       time: 1,
       weight: 1,

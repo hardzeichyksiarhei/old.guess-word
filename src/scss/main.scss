@@ -1,0 +1,70 @@
+@import 'variables';
+
+.mt-2 {
+    margin-top: 20px !important;
+}
+
+.mb-2 {
+    margin-bottom: 20px !important;
+}
+
+.text-uppercase {
+    text-transform: uppercase !important;
+}
+
+.default-layout {
+    padding: 30px;
+}
+
+.page-title {
+    font-style: normal;
+    font-weight: bold;
+    font-size: 28px;
+    line-height: 38px;
+    color: #3F414E;
+}
+
+.page-description {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 23px;
+    color: #A1A4B2;
+}
+
+.page-content {
+    margin-top: 60px;
+}
+
+/* Welcome Page */
+.welcome-page {
+    &__app-logo {
+        display: block;
+        width: 100%;
+        height: auto;
+        margin: 30px auto;
+    }
+    &__game-name {
+        font-weight: bold;
+        font-size: 20px;
+        line-height: 23px;
+        letter-spacing: 0.24em;
+        color: #3F414E;
+        text-align: center;
+    }
+    &__title {
+        font-weight: normal;
+        font-size: 30px;
+        line-height: 41px;        
+        text-align: center;
+        color: #3F414E;
+    }
+    &__description {
+        font-weight: normal;
+        font-size: 16px;
+        line-height: 26px;        
+        text-align: center;
+        color: #A1A4B2;
+        margin: 30px 0;
+    }
+}

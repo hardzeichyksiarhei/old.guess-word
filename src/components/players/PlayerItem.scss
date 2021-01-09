@@ -1,0 +1,11 @@
+.player-item {
+    display: grid;
+    grid-template-columns: 60px 1fr auto;
+    gap: 20px;
+    &__avatar {
+        display: block;
+        width: 100%;
+        height: auto;
+        border-radius: 50%;
+    }
+}

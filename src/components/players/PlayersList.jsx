@@ -1,14 +1,19 @@
-import React from "react";
+import React, { useState } from "react";
 import { useDispatch, useSelector } from "react-redux";
 
+import { Modal, List, Button } from "antd";
+import { PlusCircleOutlined } from "@ant-design/icons";
+
 import PlayerItem from "./PlayerItem";
+import EditPlayer from "./EditPlayer";
 
 import * as playerActions from "../../store/actions/players";
 import playerSelectors from "../../store/selectors/players";
 
-import plus from "../../assets/plus.svg";
-
 const PlayersList = () => {
+  const [isModalVisible, setIsModalVisible] = useState(false);
+  const [editPlayer, setEditPlayer] = useState(null);
+
   const dispatch = useDispatch();
   const players = useSelector(playerSelectors.players);
 
@@ -16,23 +21,66 @@ const PlayersList = () => {
     dispatch(
       playerActions.addPlayer({
         name: `New player`,
-        avatar: "https://via.placeholder.com/150",
+        avatar: 1,
       })
     );
   };
 
+  const handleEditPlayer = (player) => {
+    setIsModalVisible(true);
+    setEditPlayer(player);
+  };
+
+  const handleSaveEditPlayer = () => {
+    setIsModalVisible(false);
+    setEditPlayer(null);
+  };
+
+  const handleCancelEditPlayer = () => {
+    setIsModalVisible(false);
+    setEditPlayer(null);
+  };
+
   return (
     <>
-      <div className="setup-players-list">
-        {players.map((player) => (
-          <PlayerItem player={player} key={player.id} />
-        ))}
-      </div>
+      <List
+        itemLayout="horizontal"
+        dataSource={players}
+        renderItem={(player, idx) => (
+          <PlayerItem
+            player={player}
+            isDeletable={idx > 1}
+            onEdit={handleEditPlayer}
+            key={player.id}
+          />
+        )}
+      />
 
-      <button className="setup-players-add-item" onClick={handleClickAddPlayer}>
-        <img width="26px" height="26px" src={plus} alt="logo"></img>
-        добавить игрока
-      </button>
+      <Button
+        className="mt-2 text-uppercase"
+        type="text"
+        shape="round"
+        icon={<PlusCircleOutlined />}
+        onClick={handleClickAddPlayer}
+        block
+      >
+        Добавить игрока
+      </Button>
+
+      <Modal
+        title="Редактор пользователя"
+        visible={isModalVisible}
+        footer={null}
+        closable={false}
+      >
+        {editPlayer ? (
+          <EditPlayer
+            player={editPlayer}
+            onSave={handleSaveEditPlayer}
+            onCancel={handleCancelEditPlayer}
+          ></EditPlayer>
+        ) : null}
+      </Modal>
     </>
   );
 };

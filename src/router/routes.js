@@ -2,7 +2,7 @@ import React, { lazy } from "react";
 
 import Default from "../layouts/Default";
 
-import Home from "../pages/Home";
+import Welcome from "../pages/Welcome";
 
 const Categories = lazy(() => import("../pages/Categories"));
 const Settings = lazy(() => import("../pages/Settings"));
@@ -14,7 +14,7 @@ const routes = () => [
     children: [
       {
         path: "/",
-        element: <Home />,
+        element: <Welcome />,
       },
       {
         path: "/categories",

@@ -1,0 +1,19 @@
+.player-avatars-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 20px;
+    margin-bottom: 20px;
+    &__item {
+        position: relative;
+        border: 2px solid transparent;
+        box-sizing: border-box;
+        &.active {
+            border-color: var(--primary-color);
+        }
+        img {
+            display: block;
+            width: 100%;
+            height: auto;
+        }
+    }
+}
