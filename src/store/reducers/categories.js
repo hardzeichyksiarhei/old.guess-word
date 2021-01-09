@@ -7,7 +7,8 @@ const initialState = {
   categories: [
     // {
     //   id: "category1",
-    //   name: "",
+    //   slug: "all",
+    //   label: "All",
     //   words: [
     //     { value: "", weight: 5 },
     //     { value: "", weight: 1 },

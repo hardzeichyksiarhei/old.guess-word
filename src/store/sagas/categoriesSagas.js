@@ -3,7 +3,7 @@ import { put, takeEvery, call } from "redux-saga/effects";
 import * as types from "../types/categories";
 import * as actions from "../actions/categories";
 
-import categoriesService from "../../services/categories";
+import * as categoriesService from "../../services/categories";
 
 // Menus
 function* fetchCategories() {

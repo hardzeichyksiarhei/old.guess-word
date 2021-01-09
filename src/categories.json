@@ -1,0 +1,5929 @@
+[
+  {
+    "id": "ab934905-aa29-436c-9288-7aa21a396dfa",
+    "slug": "all",
+    "label": "All",
+    "words": [
+      {
+        "value": "Авто",
+        "weight": 1
+      },
+      {
+        "value": "Автобаза",
+        "weight": 1
+      },
+      {
+        "value": "Автобус",
+        "weight": 1
+      },
+      {
+        "value": "Автомашина",
+        "weight": 1
+      },
+      {
+        "value": "Автомобиль",
+        "weight": 1
+      },
+      {
+        "value": "Адаптация",
+        "weight": 1
+      },
+      {
+        "value": "Айфон",
+        "weight": 1
+      },
+      {
+        "value": "Аккумулятор",
+        "weight": 1
+      },
+      {
+        "value": "Аксессуар",
+        "weight": 1
+      },
+      {
+        "value": "Актёр",
+        "weight": 1
+      },
+      {
+        "value": "Актёры",
+        "weight": 1
+      },
+      {
+        "value": "Актриса",
+        "weight": 1
+      },
+      {
+        "value": "Акции",
+        "weight": 1
+      },
+      {
+        "value": "Алгебра",
+        "weight": 1
+      },
+      {
+        "value": "Амортизатор",
+        "weight": 1
+      },
+      {
+        "value": "Амортизация",
+        "weight": 1
+      },
+      {
+        "value": "Аниме",
+        "weight": 1
+      },
+      {
+        "value": "Аномалия",
+        "weight": 1
+      },
+      {
+        "value": "Антициклон",
+        "weight": 1
+      },
+      {
+        "value": "Антракт",
+        "weight": 1
+      },
+      {
+        "value": "Антресоль",
+        "weight": 1
+      },
+      {
+        "value": "Аппарат",
+        "weight": 1
+      },
+      {
+        "value": "Аппаратура",
+        "weight": 1
+      },
+      {
+        "value": "Артист",
+        "weight": 1
+      },
+      {
+        "value": "Артистка",
+        "weight": 1
+      },
+      {
+        "value": "Артисты",
+        "weight": 1
+      },
+      {
+        "value": "Археология",
+        "weight": 1
+      },
+      {
+        "value": "Ассоциации",
+        "weight": 1
+      },
+      {
+        "value": "Атмосфера",
+        "weight": 1
+      },
+      {
+        "value": "Атмосфера",
+        "weight": 1
+      },
+      {
+        "value": "Афиша",
+        "weight": 1
+      },
+      {
+        "value": "Балбес",
+        "weight": 1
+      },
+      {
+        "value": "Барахло",
+        "weight": 1
+      },
+      {
+        "value": "Безбилетник",
+        "weight": 1
+      },
+      {
+        "value": "Безоблачно",
+        "weight": 1
+      },
+      {
+        "value": "Безопасности",
+        "weight": 1
+      },
+      {
+        "value": "Бенгальский огонь",
+        "weight": 1
+      },
+      {
+        "value": "Билет",
+        "weight": 1
+      },
+      {
+        "value": "Билетик",
+        "weight": 1
+      },
+      {
+        "value": "Билеты",
+        "weight": 1
+      },
+      {
+        "value": "Блендер",
+        "weight": 1
+      },
+      {
+        "value": "Блокбастер",
+        "weight": 1
+      },
+      {
+        "value": "Боевик",
+        "weight": 1
+      },
+      {
+        "value": "Бортмеханик",
+        "weight": 1
+      },
+      {
+        "value": "Боя",
+        "weight": 1
+      },
+      {
+        "value": "Бригада",
+        "weight": 1
+      },
+      {
+        "value": "Броневик",
+        "weight": 1
+      },
+      {
+        "value": "Бронетранспортёр",
+        "weight": 1
+      },
+      {
+        "value": "Брызги",
+        "weight": 1
+      },
+      {
+        "value": "БТР",
+        "weight": 1
+      },
+      {
+        "value": "Будущее",
+        "weight": 1
+      },
+      {
+        "value": "Буря",
+        "weight": 1
+      },
+      {
+        "value": "Бутерброды",
+        "weight": 1
+      },
+      {
+        "value": "Быт",
+        "weight": 1
+      },
+      {
+        "value": "Быта",
+        "weight": 1
+      },
+      {
+        "value": "Бытовая",
+        "weight": 1
+      },
+      {
+        "value": "Бытовая техника",
+        "weight": 1
+      },
+      {
+        "value": "Варежки",
+        "weight": 1
+      },
+      {
+        "value": "Велосипед",
+        "weight": 1
+      },
+      {
+        "value": "Вертолёт",
+        "weight": 1
+      },
+      {
+        "value": "Веселье",
+        "weight": 1
+      },
+      {
+        "value": "Веселье",
+        "weight": 1
+      },
+      {
+        "value": "Весна",
+        "weight": 1
+      },
+      {
+        "value": "Ветер",
+        "weight": 1
+      },
+      {
+        "value": "Ветерок",
+        "weight": 1
+      },
+      {
+        "value": "Вечер",
+        "weight": 1
+      },
+      {
+        "value": "Вещи",
+        "weight": 1
+      },
+      {
+        "value": "Вещмешок",
+        "weight": 1
+      },
+      {
+        "value": "Видео",
+        "weight": 1
+      },
+      {
+        "value": "Видеокамера",
+        "weight": 1
+      },
+      {
+        "value": "Видеокамера",
+        "weight": 1
+      },
+      {
+        "value": "Видеть",
+        "weight": 1
+      },
+      {
+        "value": "Вино",
+        "weight": 1
+      },
+      {
+        "value": "Включение",
+        "weight": 1
+      },
+      {
+        "value": "Влага",
+        "weight": 1
+      },
+      {
+        "value": "Влажность",
+        "weight": 1
+      },
+      {
+        "value": "Влияние",
+        "weight": 1
+      },
+      {
+        "value": "Вода",
+        "weight": 1
+      },
+      {
+        "value": "Водка",
+        "weight": 1
+      },
+      {
+        "value": "Водоворот",
+        "weight": 1
+      },
+      {
+        "value": "Военная техника",
+        "weight": 1
+      },
+      {
+        "value": "Военные",
+        "weight": 1
+      },
+      {
+        "value": "Воздух",
+        "weight": 1
+      },
+      {
+        "value": "Вор",
+        "weight": 1
+      },
+      {
+        "value": "Времена года",
+        "weight": 1
+      },
+      {
+        "value": "Время",
+        "weight": 1
+      },
+      {
+        "value": "Всячина",
+        "weight": 1
+      },
+      {
+        "value": "Вылазка",
+        "weight": 1
+      },
+      {
+        "value": "Вьюга",
+        "weight": 1
+      },
+      {
+        "value": "Вялость",
+        "weight": 1
+      },
+      {
+        "value": "Гаджет",
+        "weight": 1
+      },
+      {
+        "value": "Галерея",
+        "weight": 1
+      },
+      {
+        "value": "Гарантия",
+        "weight": 1
+      },
+      {
+        "value": "Гардероб",
+        "weight": 1
+      },
+      {
+        "value": "Героиня",
+        "weight": 1
+      },
+      {
+        "value": "Герой",
+        "weight": 1
+      },
+      {
+        "value": "Гигиены",
+        "weight": 1
+      },
+      {
+        "value": "Гирлянда",
+        "weight": 1
+      },
+      {
+        "value": "Глухарь",
+        "weight": 1
+      },
+      {
+        "value": "Глюк",
+        "weight": 1
+      },
+      {
+        "value": "Гоблин",
+        "weight": 1
+      },
+      {
+        "value": "Год",
+        "weight": 1
+      },
+      {
+        "value": "Голливуд",
+        "weight": 1
+      },
+      {
+        "value": "Город",
+        "weight": 1
+      },
+      {
+        "value": "Горячо",
+        "weight": 1
+      },
+      {
+        "value": "Гости",
+        "weight": 1
+      },
+      {
+        "value": "Град",
+        "weight": 1
+      },
+      {
+        "value": "Градус",
+        "weight": 1
+      },
+      {
+        "value": "Грёзы",
+        "weight": 1
+      },
+      {
+        "value": "Гроза",
+        "weight": 1
+      },
+      {
+        "value": "Гром",
+        "weight": 1
+      },
+      {
+        "value": "Группа",
+        "weight": 1
+      },
+      {
+        "value": "Грязь",
+        "weight": 1
+      },
+      {
+        "value": "Гугл",
+        "weight": 1
+      },
+      {
+        "value": "Давление",
+        "weight": 1
+      },
+      {
+        "value": "Датчик",
+        "weight": 1
+      },
+      {
+        "value": "Дача",
+        "weight": 1
+      },
+      {
+        "value": "Двигатель",
+        "weight": 1
+      },
+      {
+        "value": "Движение",
+        "weight": 1
+      },
+      {
+        "value": "Девушка",
+        "weight": 1
+      },
+      {
+        "value": "Девчата",
+        "weight": 1
+      },
+      {
+        "value": "Дед Мороз",
+        "weight": 1
+      },
+      {
+        "value": "Декорация",
+        "weight": 1
+      },
+      {
+        "value": "Декорация",
+        "weight": 1
+      },
+      {
+        "value": "День",
+        "weight": 1
+      },
+      {
+        "value": "Деньги",
+        "weight": 1
+      },
+      {
+        "value": "Детвора",
+        "weight": 1
+      },
+      {
+        "value": "Детектив",
+        "weight": 1
+      },
+      {
+        "value": "Дети",
+        "weight": 1
+      },
+      {
+        "value": "Джеймс бонд",
+        "weight": 1
+      },
+      {
+        "value": "Диван",
+        "weight": 1
+      },
+      {
+        "value": "Диктор",
+        "weight": 1
+      },
+      {
+        "value": "Диск",
+        "weight": 1
+      },
+      {
+        "value": "Дискета",
+        "weight": 1
+      },
+      {
+        "value": "Дисковод",
+        "weight": 1
+      },
+      {
+        "value": "Дисплей",
+        "weight": 1
+      },
+      {
+        "value": "Дисплей",
+        "weight": 1
+      },
+      {
+        "value": "Дневник",
+        "weight": 1
+      },
+      {
+        "value": "Добрая",
+        "weight": 1
+      },
+      {
+        "value": "Дожди",
+        "weight": 1
+      },
+      {
+        "value": "Дождливая",
+        "weight": 1
+      },
+      {
+        "value": "Дождливая погода",
+        "weight": 1
+      },
+      {
+        "value": "Дождливо",
+        "weight": 1
+      },
+      {
+        "value": "Дождь",
+        "weight": 1
+      },
+      {
+        "value": "Дозор",
+        "weight": 1
+      },
+      {
+        "value": "Дом",
+        "weight": 1
+      },
+      {
+        "value": "Домино",
+        "weight": 1
+      },
+      {
+        "value": "Доска",
+        "weight": 1
+      },
+      {
+        "value": "Драма",
+        "weight": 1
+      },
+      {
+        "value": "Друзья",
+        "weight": 1
+      },
+      {
+        "value": "Друзья",
+        "weight": 1
+      },
+      {
+        "value": "Дует",
+        "weight": 1
+      },
+      {
+        "value": "Еда",
+        "weight": 1
+      },
+      {
+        "value": "Ездить",
+        "weight": 1
+      },
+      {
+        "value": "Ёлка",
+        "weight": 1
+      },
+      {
+        "value": "Жандарм",
+        "weight": 1
+      },
+      {
+        "value": "Жанр",
+        "weight": 1
+      },
+      {
+        "value": "Жар",
+        "weight": 1
+      },
+      {
+        "value": "Жара",
+        "weight": 1
+      },
+      {
+        "value": "Жаркий",
+        "weight": 1
+      },
+      {
+        "value": "Жарко",
+        "weight": 1
+      },
+      {
+        "value": "Ждать",
+        "weight": 1
+      },
+      {
+        "value": "Железо",
+        "weight": 1
+      },
+      {
+        "value": "Журнал",
+        "weight": 1
+      },
+      {
+        "value": "Завод",
+        "weight": 1
+      },
+      {
+        "value": "Задания",
+        "weight": 1
+      },
+      {
+        "value": "Зал",
+        "weight": 1
+      },
+      {
+        "value": "Запас",
+        "weight": 1
+      },
+      {
+        "value": "Звезда",
+        "weight": 1
+      },
+      {
+        "value": "Звук",
+        "weight": 1
+      },
+      {
+        "value": "Зима",
+        "weight": 1
+      },
+      {
+        "value": "Зима",
+        "weight": 1
+      },
+      {
+        "value": "Зимняя",
+        "weight": 1
+      },
+      {
+        "value": "Знаменитость",
+        "weight": 1
+      },
+      {
+        "value": "Зной",
+        "weight": 1
+      },
+      {
+        "value": "Золотая осень",
+        "weight": 1
+      },
+      {
+        "value": "Зонд",
+        "weight": 1
+      },
+      {
+        "value": "Зонт",
+        "weight": 1
+      },
+      {
+        "value": "Зонтик",
+        "weight": 1
+      },
+      {
+        "value": "Зоотехника",
+        "weight": 1
+      },
+      {
+        "value": "Зрелище",
+        "weight": 1
+      },
+      {
+        "value": "Зрители",
+        "weight": 1
+      },
+      {
+        "value": "Зритель",
+        "weight": 1
+      },
+      {
+        "value": "Иголки",
+        "weight": 1
+      },
+      {
+        "value": "Игра",
+        "weight": 1
+      },
+      {
+        "value": "Игра",
+        "weight": 1
+      },
+      {
+        "value": "Игрушки",
+        "weight": 1
+      },
+      {
+        "value": "Игрушки",
+        "weight": 1
+      },
+      {
+        "value": "Игры престолов",
+        "weight": 1
+      },
+      {
+        "value": "Идеализация",
+        "weight": 1
+      },
+      {
+        "value": "Избыточность",
+        "weight": 1
+      },
+      {
+        "value": "Изменение",
+        "weight": 1
+      },
+      {
+        "value": "Изобретатель",
+        "weight": 1
+      },
+      {
+        "value": "Изобретение",
+        "weight": 1
+      },
+      {
+        "value": "Икра",
+        "weight": 1
+      },
+      {
+        "value": "Имущество",
+        "weight": 1
+      },
+      {
+        "value": "Инвентарь",
+        "weight": 1
+      },
+      {
+        "value": "Индия",
+        "weight": 1
+      },
+      {
+        "value": "Индустриализация",
+        "weight": 1
+      },
+      {
+        "value": "Инженер",
+        "weight": 1
+      },
+      {
+        "value": "Инновации",
+        "weight": 1
+      },
+      {
+        "value": "Институт",
+        "weight": 1
+      },
+      {
+        "value": "Инструменты",
+        "weight": 1
+      },
+      {
+        "value": "Инструменты",
+        "weight": 1
+      },
+      {
+        "value": "Интересно",
+        "weight": 1
+      },
+      {
+        "value": "Интересное",
+        "weight": 1
+      },
+      {
+        "value": "Интернет",
+        "weight": 1
+      },
+      {
+        "value": "Интерьер",
+        "weight": 1
+      },
+      {
+        "value": "Ирония",
+        "weight": 1
+      },
+      {
+        "value": "Искусственная ёлка",
+        "weight": 1
+      },
+      {
+        "value": "Искусство",
+        "weight": 1
+      },
+      {
+        "value": "Искусство",
+        "weight": 1
+      },
+      {
+        "value": "Исполнение",
+        "weight": 1
+      },
+      {
+        "value": "Использование",
+        "weight": 1
+      },
+      {
+        "value": "Кабак",
+        "weight": 1
+      },
+      {
+        "value": "Кадр",
+        "weight": 1
+      },
+      {
+        "value": "Календарь",
+        "weight": 1
+      },
+      {
+        "value": "Камера",
+        "weight": 1
+      },
+      {
+        "value": "Канцелярия",
+        "weight": 1
+      },
+      {
+        "value": "Капелька",
+        "weight": 1
+      },
+      {
+        "value": "Карнавальный костюм",
+        "weight": 1
+      },
+      {
+        "value": "Картина",
+        "weight": 1
+      },
+      {
+        "value": "Каскадёр",
+        "weight": 1
+      },
+      {
+        "value": "Кассета",
+        "weight": 1
+      },
+      {
+        "value": "Кастинг",
+        "weight": 1
+      },
+      {
+        "value": "Катаклизм",
+        "weight": 1
+      },
+      {
+        "value": "Качественный",
+        "weight": 1
+      },
+      {
+        "value": "Кинематограф",
+        "weight": 1
+      },
+      {
+        "value": "Кинескоп",
+        "weight": 1
+      },
+      {
+        "value": "Киножурнал",
+        "weight": 1
+      },
+      {
+        "value": "Кинозал",
+        "weight": 1
+      },
+      {
+        "value": "Кинолента",
+        "weight": 1
+      },
+      {
+        "value": "Кинорежиссёр",
+        "weight": 1
+      },
+      {
+        "value": "Киностудия",
+        "weight": 1
+      },
+      {
+        "value": "Кинотеатр",
+        "weight": 1
+      },
+      {
+        "value": "Кинофильм",
+        "weight": 1
+      },
+      {
+        "value": "Китайская",
+        "weight": 1
+      },
+      {
+        "value": "Клавиши",
+        "weight": 1
+      },
+      {
+        "value": "Кладовщица",
+        "weight": 1
+      },
+      {
+        "value": "Класс",
+        "weight": 1
+      },
+      {
+        "value": "Классика",
+        "weight": 1
+      },
+      {
+        "value": "Класть",
+        "weight": 1
+      },
+      {
+        "value": "Климат",
+        "weight": 1
+      },
+      {
+        "value": "Книги",
+        "weight": 1
+      },
+      {
+        "value": "Кнопки",
+        "weight": 1
+      },
+      {
+        "value": "Кнопочка",
+        "weight": 1
+      },
+      {
+        "value": "Коктейли",
+        "weight": 1
+      },
+      {
+        "value": "Кола",
+        "weight": 1
+      },
+      {
+        "value": "Количество",
+        "weight": 1
+      },
+      {
+        "value": "Коллекционирование",
+        "weight": 1
+      },
+      {
+        "value": "Колонки",
+        "weight": 1
+      },
+      {
+        "value": "Комбайн",
+        "weight": 1
+      },
+      {
+        "value": "Комедия",
+        "weight": 1
+      },
+      {
+        "value": "Комп",
+        "weight": 1
+      },
+      {
+        "value": "Компьютер",
+        "weight": 1
+      },
+      {
+        "value": "Компьютеризация",
+        "weight": 1
+      },
+      {
+        "value": "Кондиционер",
+        "weight": 1
+      },
+      {
+        "value": "Конфетти",
+        "weight": 1
+      },
+      {
+        "value": "Конфеты",
+        "weight": 1
+      },
+      {
+        "value": "Конфискат",
+        "weight": 1
+      },
+      {
+        "value": "Коробка",
+        "weight": 1
+      },
+      {
+        "value": "Корпоративы",
+        "weight": 1
+      },
+      {
+        "value": "Косяк",
+        "weight": 1
+      },
+      {
+        "value": "Котловина",
+        "weight": 1
+      },
+      {
+        "value": "Кошмар",
+        "weight": 1
+      },
+      {
+        "value": "Красивая",
+        "weight": 1
+      },
+      {
+        "value": "Кресло",
+        "weight": 1
+      },
+      {
+        "value": "Кровать",
+        "weight": 1
+      },
+      {
+        "value": "Культура",
+        "weight": 1
+      },
+      {
+        "value": "Куранты",
+        "weight": 1
+      },
+      {
+        "value": "Кутерьма",
+        "weight": 1
+      },
+      {
+        "value": "Кухня",
+        "weight": 1
+      },
+      {
+        "value": "Кухонный комбайн",
+        "weight": 1
+      },
+      {
+        "value": "Лас-Вегас",
+        "weight": 1
+      },
+      {
+        "value": "Лёд",
+        "weight": 1
+      },
+      {
+        "value": "Лежат",
+        "weight": 1
+      },
+      {
+        "value": "Лента",
+        "weight": 1
+      },
+      {
+        "value": "Летает",
+        "weight": 1
+      },
+      {
+        "value": "Летняя",
+        "weight": 1
+      },
+      {
+        "value": "Лето",
+        "weight": 1
+      },
+      {
+        "value": "Ливень",
+        "weight": 1
+      },
+      {
+        "value": "Ломбард",
+        "weight": 1
+      },
+      {
+        "value": "Лопасть",
+        "weight": 1
+      },
+      {
+        "value": "Лужа",
+        "weight": 1
+      },
+      {
+        "value": "Лужи",
+        "weight": 1
+      },
+      {
+        "value": "Лужица",
+        "weight": 1
+      },
+      {
+        "value": "Лучшая",
+        "weight": 1
+      },
+      {
+        "value": "Лыжи",
+        "weight": 1
+      },
+      {
+        "value": "Любимая",
+        "weight": 1
+      },
+      {
+        "value": "Любовь",
+        "weight": 1
+      },
+      {
+        "value": "Люди",
+        "weight": 1
+      },
+      {
+        "value": "Магазин",
+        "weight": 1
+      },
+      {
+        "value": "Магазин",
+        "weight": 1
+      },
+      {
+        "value": "Магнитофон",
+        "weight": 1
+      },
+      {
+        "value": "Маленькие",
+        "weight": 1
+      },
+      {
+        "value": "Мандарины",
+        "weight": 1
+      },
+      {
+        "value": "Марево",
+        "weight": 1
+      },
+      {
+        "value": "Марки",
+        "weight": 1
+      },
+      {
+        "value": "Маска",
+        "weight": 1
+      },
+      {
+        "value": "Мастер",
+        "weight": 1
+      },
+      {
+        "value": "Математика",
+        "weight": 1
+      },
+      {
+        "value": "Машина",
+        "weight": 1
+      },
+      {
+        "value": "Машинка",
+        "weight": 1
+      },
+      {
+        "value": "Машины",
+        "weight": 1
+      },
+      {
+        "value": "Мебель",
+        "weight": 1
+      },
+      {
+        "value": "Мелодрама",
+        "weight": 1
+      },
+      {
+        "value": "Мерзлота",
+        "weight": 1
+      },
+      {
+        "value": "Места",
+        "weight": 1
+      },
+      {
+        "value": "Место",
+        "weight": 1
+      },
+      {
+        "value": "Металл",
+        "weight": 1
+      },
+      {
+        "value": "Металлическая",
+        "weight": 1
+      },
+      {
+        "value": "Метель",
+        "weight": 1
+      },
+      {
+        "value": "Метель",
+        "weight": 1
+      },
+      {
+        "value": "Метеоролог",
+        "weight": 1
+      },
+      {
+        "value": "Метро",
+        "weight": 1
+      },
+      {
+        "value": "Механизм",
+        "weight": 1
+      },
+      {
+        "value": "Механик",
+        "weight": 1
+      },
+      {
+        "value": "Механика",
+        "weight": 1
+      },
+      {
+        "value": "Микроволновка",
+        "weight": 1
+      },
+      {
+        "value": "Миксер",
+        "weight": 1
+      },
+      {
+        "value": "Мистика",
+        "weight": 1
+      },
+      {
+        "value": "Мишура",
+        "weight": 1
+      },
+      {
+        "value": "Множество",
+        "weight": 1
+      },
+      {
+        "value": "Мобилизация",
+        "weight": 1
+      },
+      {
+        "value": "Мобильник",
+        "weight": 1
+      },
+      {
+        "value": "Мокрота",
+        "weight": 1
+      },
+      {
+        "value": "Мокрый",
+        "weight": 1
+      },
+      {
+        "value": "Молниеносно",
+        "weight": 1
+      },
+      {
+        "value": "Молния",
+        "weight": 1
+      },
+      {
+        "value": "Молодёжь",
+        "weight": 1
+      },
+      {
+        "value": "Монитор",
+        "weight": 1
+      },
+      {
+        "value": "Монтаж",
+        "weight": 1
+      },
+      {
+        "value": "Море",
+        "weight": 1
+      },
+      {
+        "value": "Мороз",
+        "weight": 1
+      },
+      {
+        "value": "Мороз",
+        "weight": 1
+      },
+      {
+        "value": "Морская",
+        "weight": 1
+      },
+      {
+        "value": "Мосфильм",
+        "weight": 1
+      },
+      {
+        "value": "Мотор",
+        "weight": 1
+      },
+      {
+        "value": "Моторист",
+        "weight": 1
+      },
+      {
+        "value": "Мотоцикл",
+        "weight": 1
+      },
+      {
+        "value": "Мощность",
+        "weight": 1
+      },
+      {
+        "value": "Мрачность",
+        "weight": 1
+      },
+      {
+        "value": "Музей",
+        "weight": 1
+      },
+      {
+        "value": "Музыка",
+        "weight": 1
+      },
+      {
+        "value": "Музыка",
+        "weight": 1
+      },
+      {
+        "value": "Мультик",
+        "weight": 1
+      },
+      {
+        "value": "Мультипликация",
+        "weight": 1
+      },
+      {
+        "value": "Мультфильм",
+        "weight": 1
+      },
+      {
+        "value": "Мультфильмы",
+        "weight": 1
+      },
+      {
+        "value": "Мутант",
+        "weight": 1
+      },
+      {
+        "value": "Мыльная опера",
+        "weight": 1
+      },
+      {
+        "value": "Мясо",
+        "weight": 1
+      },
+      {
+        "value": "Мясорубка",
+        "weight": 1
+      },
+      {
+        "value": "Набор",
+        "weight": 1
+      },
+      {
+        "value": "Нагромождение",
+        "weight": 1
+      },
+      {
+        "value": "Нарезка",
+        "weight": 1
+      },
+      {
+        "value": "Настроение",
+        "weight": 1
+      },
+      {
+        "value": "Настроение",
+        "weight": 1
+      },
+      {
+        "value": "Настройка",
+        "weight": 1
+      },
+      {
+        "value": "Натюрморт",
+        "weight": 1
+      },
+      {
+        "value": "Наука",
+        "weight": 1
+      },
+      {
+        "value": "Наука и техника",
+        "weight": 1
+      },
+      {
+        "value": "Научная фантастика",
+        "weight": 1
+      },
+      {
+        "value": "Небо",
+        "weight": 1
+      },
+      {
+        "value": "Небосвод",
+        "weight": 1
+      },
+      {
+        "value": "Невзгода",
+        "weight": 1
+      },
+      {
+        "value": "Ненастье",
+        "weight": 1
+      },
+      {
+        "value": "Непогода",
+        "weight": 1
+      },
+      {
+        "value": "Неполадки",
+        "weight": 1
+      },
+      {
+        "value": "Новелла",
+        "weight": 1
+      },
+      {
+        "value": "Новогоднее представление",
+        "weight": 1
+      },
+      {
+        "value": "Новости",
+        "weight": 1
+      },
+      {
+        "value": "Новость",
+        "weight": 1
+      },
+      {
+        "value": "Нож",
+        "weight": 1
+      },
+      {
+        "value": "Номенклатура",
+        "weight": 1
+      },
+      {
+        "value": "Ноутбук",
+        "weight": 1
+      },
+      {
+        "value": "Ночь",
+        "weight": 1
+      },
+      {
+        "value": "Ночь",
+        "weight": 1
+      },
+      {
+        "value": "Ноябрь",
+        "weight": 1
+      },
+      {
+        "value": "НТВ",
+        "weight": 1
+      },
+      {
+        "value": "Обиход",
+        "weight": 1
+      },
+      {
+        "value": "Обихода",
+        "weight": 1
+      },
+      {
+        "value": "Облака",
+        "weight": 1
+      },
+      {
+        "value": "Облако",
+        "weight": 1
+      },
+      {
+        "value": "Облачка",
+        "weight": 1
+      },
+      {
+        "value": "Облачко",
+        "weight": 1
+      },
+      {
+        "value": "Облачность",
+        "weight": 1
+      },
+      {
+        "value": "Оборудование",
+        "weight": 1
+      },
+      {
+        "value": "Образ",
+        "weight": 1
+      },
+      {
+        "value": "Обстановка",
+        "weight": 1
+      },
+      {
+        "value": "Одежда",
+        "weight": 1
+      },
+      {
+        "value": "Одежда",
+        "weight": 1
+      },
+      {
+        "value": "Ожиданье",
+        "weight": 1
+      },
+      {
+        "value": "Окружающая среда",
+        "weight": 1
+      },
+      {
+        "value": "Окружающее",
+        "weight": 1
+      },
+      {
+        "value": "Окружение",
+        "weight": 1
+      },
+      {
+        "value": "Октябрь",
+        "weight": 1
+      },
+      {
+        "value": "Оливье",
+        "weight": 1
+      },
+      {
+        "value": "Онлайн-кинотеатр",
+        "weight": 1
+      },
+      {
+        "value": "Оператор",
+        "weight": 1
+      },
+      {
+        "value": "Оператор",
+        "weight": 1
+      },
+      {
+        "value": "Осадки",
+        "weight": 1
+      },
+      {
+        "value": "Осадок",
+        "weight": 1
+      },
+      {
+        "value": "Осенний",
+        "weight": 1
+      },
+      {
+        "value": "Осень",
+        "weight": 1
+      },
+      {
+        "value": "Оскар",
+        "weight": 1
+      },
+      {
+        "value": "Отдых",
+        "weight": 1
+      },
+      {
+        "value": "Отдых",
+        "weight": 1
+      },
+      {
+        "value": "Открытки",
+        "weight": 1
+      },
+      {
+        "value": "Отличное",
+        "weight": 1
+      },
+      {
+        "value": "Отрасль",
+        "weight": 1
+      },
+      {
+        "value": "Оттепель",
+        "weight": 1
+      },
+      {
+        "value": "Очки",
+        "weight": 1
+      },
+      {
+        "value": "Очки",
+        "weight": 1
+      },
+      {
+        "value": "Пара",
+        "weight": 1
+      },
+      {
+        "value": "Парад",
+        "weight": 1
+      },
+      {
+        "value": "Парень",
+        "weight": 1
+      },
+      {
+        "value": "Парта",
+        "weight": 1
+      },
+      {
+        "value": "Пары",
+        "weight": 1
+      },
+      {
+        "value": "Пасмурная",
+        "weight": 1
+      },
+      {
+        "value": "Пасмурная погода",
+        "weight": 1
+      },
+      {
+        "value": "Пасмурно",
+        "weight": 1
+      },
+      {
+        "value": "Пауза",
+        "weight": 1
+      },
+      {
+        "value": "Передатчик",
+        "weight": 1
+      },
+      {
+        "value": "Перемена",
+        "weight": 1
+      },
+      {
+        "value": "Перемены",
+        "weight": 1
+      },
+      {
+        "value": "Пересмотр",
+        "weight": 1
+      },
+      {
+        "value": "Перечень",
+        "weight": 1
+      },
+      {
+        "value": "Персонаж",
+        "weight": 1
+      },
+      {
+        "value": "Петарды",
+        "weight": 1
+      },
+      {
+        "value": "Пиво",
+        "weight": 1
+      },
+      {
+        "value": "Пила",
+        "weight": 1
+      },
+      {
+        "value": "Плазма",
+        "weight": 1
+      },
+      {
+        "value": "Планшет",
+        "weight": 1
+      },
+      {
+        "value": "Плеер",
+        "weight": 1
+      },
+      {
+        "value": "Плёнка",
+        "weight": 1
+      },
+      {
+        "value": "Пленница",
+        "weight": 1
+      },
+      {
+        "value": "Плита",
+        "weight": 1
+      },
+      {
+        "value": "Плита",
+        "weight": 1
+      },
+      {
+        "value": "Плохая",
+        "weight": 1
+      },
+      {
+        "value": "Плохая погода",
+        "weight": 1
+      },
+      {
+        "value": "Плохое",
+        "weight": 1
+      },
+      {
+        "value": "Плохой",
+        "weight": 1
+      },
+      {
+        "value": "Плюс",
+        "weight": 1
+      },
+      {
+        "value": "Подарки",
+        "weight": 1
+      },
+      {
+        "value": "Подключение",
+        "weight": 1
+      },
+      {
+        "value": "Подражание",
+        "weight": 1
+      },
+      {
+        "value": "Подсчёт",
+        "weight": 1
+      },
+      {
+        "value": "Поезд",
+        "weight": 1
+      },
+      {
+        "value": "Поздравления",
+        "weight": 1
+      },
+      {
+        "value": "Показ",
+        "weight": 1
+      },
+      {
+        "value": "Показать",
+        "weight": 1
+      },
+      {
+        "value": "Показывать",
+        "weight": 1
+      },
+      {
+        "value": "Покупать",
+        "weight": 1
+      },
+      {
+        "value": "Покупки",
+        "weight": 1
+      },
+      {
+        "value": "Полигон",
+        "weight": 1
+      },
+      {
+        "value": "Полка",
+        "weight": 1
+      },
+      {
+        "value": "Полночь",
+        "weight": 1
+      },
+      {
+        "value": "Полочка",
+        "weight": 1
+      },
+      {
+        "value": "Помощь",
+        "weight": 1
+      },
+      {
+        "value": "Попкорн",
+        "weight": 1
+      },
+      {
+        "value": "Популярность",
+        "weight": 1
+      },
+      {
+        "value": "Порыв",
+        "weight": 1
+      },
+      {
+        "value": "Посетитель",
+        "weight": 1
+      },
+      {
+        "value": "Посещение",
+        "weight": 1
+      },
+      {
+        "value": "Постановка",
+        "weight": 1
+      },
+      {
+        "value": "Постель",
+        "weight": 1
+      },
+      {
+        "value": "Посуда",
+        "weight": 1
+      },
+      {
+        "value": "Посудомоечная машина",
+        "weight": 1
+      },
+      {
+        "value": "Посылки",
+        "weight": 1
+      },
+      {
+        "value": "Потепление",
+        "weight": 1
+      },
+      {
+        "value": "Похмелье",
+        "weight": 1
+      },
+      {
+        "value": "Похолодание",
+        "weight": 1
+      },
+      {
+        "value": "Поцелуй",
+        "weight": 1
+      },
+      {
+        "value": "Починка",
+        "weight": 1
+      },
+      {
+        "value": "Правило",
+        "weight": 1
+      },
+      {
+        "value": "Предмет",
+        "weight": 1
+      },
+      {
+        "value": "Предмет",
+        "weight": 1
+      },
+      {
+        "value": "Представление",
+        "weight": 1
+      },
+      {
+        "value": "Прекрасный",
+        "weight": 1
+      },
+      {
+        "value": "Прелесть",
+        "weight": 1
+      },
+      {
+        "value": "Премьера",
+        "weight": 1
+      },
+      {
+        "value": "Преподавать",
+        "weight": 1
+      },
+      {
+        "value": "Прибор",
+        "weight": 1
+      },
+      {
+        "value": "Приборы",
+        "weight": 1
+      },
+      {
+        "value": "Приборы",
+        "weight": 1
+      },
+      {
+        "value": "Приглашения",
+        "weight": 1
+      },
+      {
+        "value": "Пригодность",
+        "weight": 1
+      },
+      {
+        "value": "Приключения",
+        "weight": 1
+      },
+      {
+        "value": "Применение",
+        "weight": 1
+      },
+      {
+        "value": "Примета",
+        "weight": 1
+      },
+      {
+        "value": "Принтер",
+        "weight": 1
+      },
+      {
+        "value": "Приобретение",
+        "weight": 1
+      },
+      {
+        "value": "Природа",
+        "weight": 1
+      },
+      {
+        "value": "Пробки",
+        "weight": 1
+      },
+      {
+        "value": "Провод",
+        "weight": 1
+      },
+      {
+        "value": "Провода",
+        "weight": 1
+      },
+      {
+        "value": "Прогноз",
+        "weight": 1
+      },
+      {
+        "value": "Прогноз погоды",
+        "weight": 1
+      },
+      {
+        "value": "Программа",
+        "weight": 1
+      },
+      {
+        "value": "Программист",
+        "weight": 1
+      },
+      {
+        "value": "Прогресс",
+        "weight": 1
+      },
+      {
+        "value": "Прогулка",
+        "weight": 1
+      },
+      {
+        "value": "Прогулки",
+        "weight": 1
+      },
+      {
+        "value": "Продажи",
+        "weight": 1
+      },
+      {
+        "value": "Продолжение",
+        "weight": 1
+      },
+      {
+        "value": "Продюсер",
+        "weight": 1
+      },
+      {
+        "value": "Производство",
+        "weight": 1
+      },
+      {
+        "value": "Прокат",
+        "weight": 1
+      },
+      {
+        "value": "Прокладка",
+        "weight": 1
+      },
+      {
+        "value": "Просмотр",
+        "weight": 1
+      },
+      {
+        "value": "Прототип",
+        "weight": 1
+      },
+      {
+        "value": "Прохладно",
+        "weight": 1
+      },
+      {
+        "value": "Пылесос",
+        "weight": 1
+      },
+      {
+        "value": "Пятница",
+        "weight": 1
+      },
+      {
+        "value": "Работа",
+        "weight": 1
+      },
+      {
+        "value": "Рабочая",
+        "weight": 1
+      },
+      {
+        "value": "Радар",
+        "weight": 1
+      },
+      {
+        "value": "Радио",
+        "weight": 1
+      },
+      {
+        "value": "Радость",
+        "weight": 1
+      },
+      {
+        "value": "Радуга",
+        "weight": 1
+      },
+      {
+        "value": "Развитие",
+        "weight": 1
+      },
+      {
+        "value": "Развлечение",
+        "weight": 1
+      },
+      {
+        "value": "Развлечения",
+        "weight": 1
+      },
+      {
+        "value": "Разработка",
+        "weight": 1
+      },
+      {
+        "value": "Рация",
+        "weight": 1
+      },
+      {
+        "value": "Регулятор",
+        "weight": 1
+      },
+      {
+        "value": "Режиссёр",
+        "weight": 1
+      },
+      {
+        "value": "Реклама",
+        "weight": 1
+      },
+      {
+        "value": "Реклама",
+        "weight": 1
+      },
+      {
+        "value": "Ремонт",
+        "weight": 1
+      },
+      {
+        "value": "Репертуар",
+        "weight": 1
+      },
+      {
+        "value": "Ресторан",
+        "weight": 1
+      },
+      {
+        "value": "Рецензия",
+        "weight": 1
+      },
+      {
+        "value": "Робот",
+        "weight": 1
+      },
+      {
+        "value": "Роботы",
+        "weight": 1
+      },
+      {
+        "value": "Розовая пантера",
+        "weight": 1
+      },
+      {
+        "value": "Ролик",
+        "weight": 1
+      },
+      {
+        "value": "Роль",
+        "weight": 1
+      },
+      {
+        "value": "Романтика",
+        "weight": 1
+      },
+      {
+        "value": "Ручка",
+        "weight": 1
+      },
+      {
+        "value": "Рыба",
+        "weight": 1
+      },
+      {
+        "value": "Рычаг",
+        "weight": 1
+      },
+      {
+        "value": "Ряд",
+        "weight": 1
+      },
+      {
+        "value": "Ряд",
+        "weight": 1
+      },
+      {
+        "value": "Салазки",
+        "weight": 1
+      },
+      {
+        "value": "Салат",
+        "weight": 1
+      },
+      {
+        "value": "Самолёт",
+        "weight": 1
+      },
+      {
+        "value": "Самоходка",
+        "weight": 1
+      },
+      {
+        "value": "Санки",
+        "weight": 1
+      },
+      {
+        "value": "Сантехник",
+        "weight": 1
+      },
+      {
+        "value": "Сантехника",
+        "weight": 1
+      },
+      {
+        "value": "Свежесть",
+        "weight": 1
+      },
+      {
+        "value": "Свечи",
+        "weight": 1
+      },
+      {
+        "value": "Свидание",
+        "weight": 1
+      },
+      {
+        "value": "Свидания",
+        "weight": 1
+      },
+      {
+        "value": "Свиданье",
+        "weight": 1
+      },
+      {
+        "value": "Сводка",
+        "weight": 1
+      },
+      {
+        "value": "Сеанс",
+        "weight": 1
+      },
+      {
+        "value": "Северный",
+        "weight": 1
+      },
+      {
+        "value": "Селедка под шубой",
+        "weight": 1
+      },
+      {
+        "value": "Серая",
+        "weight": 1
+      },
+      {
+        "value": "Сериал",
+        "weight": 1
+      },
+      {
+        "value": "Сериалы",
+        "weight": 1
+      },
+      {
+        "value": "Серпантин",
+        "weight": 1
+      },
+      {
+        "value": "Синоптик",
+        "weight": 1
+      },
+      {
+        "value": "Синоптики",
+        "weight": 1
+      },
+      {
+        "value": "Сисадмин",
+        "weight": 1
+      },
+      {
+        "value": "Система",
+        "weight": 1
+      },
+      {
+        "value": "Скидки",
+        "weight": 1
+      },
+      {
+        "value": "Склад",
+        "weight": 1
+      },
+      {
+        "value": "Склад",
+        "weight": 1
+      },
+      {
+        "value": "Слёзы",
+        "weight": 1
+      },
+      {
+        "value": "Слякоть",
+        "weight": 1
+      },
+      {
+        "value": "Смартфон",
+        "weight": 1
+      },
+      {
+        "value": "Смена",
+        "weight": 1
+      },
+      {
+        "value": "Смерч",
+        "weight": 1
+      },
+      {
+        "value": "Смех",
+        "weight": 1
+      },
+      {
+        "value": "Смех",
+        "weight": 1
+      },
+      {
+        "value": "Смотреть",
+        "weight": 1
+      },
+      {
+        "value": "Снег",
+        "weight": 1
+      },
+      {
+        "value": "Снег",
+        "weight": 1
+      },
+      {
+        "value": "Снегопад",
+        "weight": 1
+      },
+      {
+        "value": "Снегурочка",
+        "weight": 1
+      },
+      {
+        "value": "Снежинки",
+        "weight": 1
+      },
+      {
+        "value": "Снежки",
+        "weight": 1
+      },
+      {
+        "value": "Снимать",
+        "weight": 1
+      },
+      {
+        "value": "Снятие",
+        "weight": 1
+      },
+      {
+        "value": "Советское",
+        "weight": 1
+      },
+      {
+        "value": "Сок",
+        "weight": 1
+      },
+      {
+        "value": "Солнечная",
+        "weight": 1
+      },
+      {
+        "value": "Солнечная погода",
+        "weight": 1
+      },
+      {
+        "value": "Солнечно",
+        "weight": 1
+      },
+      {
+        "value": "Солнечный",
+        "weight": 1
+      },
+      {
+        "value": "Солнце",
+        "weight": 1
+      },
+      {
+        "value": "Солнышко",
+        "weight": 1
+      },
+      {
+        "value": "Соседи",
+        "weight": 1
+      },
+      {
+        "value": "Спонсор",
+        "weight": 1
+      },
+      {
+        "value": "Спорт",
+        "weight": 1
+      },
+      {
+        "value": "Спрут",
+        "weight": 1
+      },
+      {
+        "value": "Сталкер",
+        "weight": 1
+      },
+      {
+        "value": "Станок",
+        "weight": 1
+      },
+      {
+        "value": "Стиралка",
+        "weight": 1
+      },
+      {
+        "value": "Стиральная машина",
+        "weight": 1
+      },
+      {
+        "value": "Стихия",
+        "weight": 1
+      },
+      {
+        "value": "Стол",
+        "weight": 1
+      },
+      {
+        "value": "Страх",
+        "weight": 1
+      },
+      {
+        "value": "Страшная",
+        "weight": 1
+      },
+      {
+        "value": "Страшное",
+        "weight": 1
+      },
+      {
+        "value": "Студия",
+        "weight": 1
+      },
+      {
+        "value": "Стужа",
+        "weight": 1
+      },
+      {
+        "value": "Стул",
+        "weight": 1
+      },
+      {
+        "value": "Сумерки",
+        "weight": 1
+      },
+      {
+        "value": "Сумка",
+        "weight": 1
+      },
+      {
+        "value": "Суперзвезда",
+        "weight": 1
+      },
+      {
+        "value": "Сфинкс",
+        "weight": 1
+      },
+      {
+        "value": "Схема",
+        "weight": 1
+      },
+      {
+        "value": "Сцена",
+        "weight": 1
+      },
+      {
+        "value": "Сценарий",
+        "weight": 1
+      },
+      {
+        "value": "Сценарист",
+        "weight": 1
+      },
+      {
+        "value": "Съёмка",
+        "weight": 1
+      },
+      {
+        "value": "Съёмки",
+        "weight": 1
+      },
+      {
+        "value": "Сырой",
+        "weight": 1
+      },
+      {
+        "value": "Сырость",
+        "weight": 1
+      },
+      {
+        "value": "Сюжет",
+        "weight": 1
+      },
+      {
+        "value": "Табло",
+        "weight": 1
+      },
+      {
+        "value": "Тайфун",
+        "weight": 1
+      },
+      {
+        "value": "Такси",
+        "weight": 1
+      },
+      {
+        "value": "Танк",
+        "weight": 1
+      },
+      {
+        "value": "Танки",
+        "weight": 1
+      },
+      {
+        "value": "Театр",
+        "weight": 1
+      },
+      {
+        "value": "Тела",
+        "weight": 1
+      },
+      {
+        "value": "Телевидение",
+        "weight": 1
+      },
+      {
+        "value": "Телевизор",
+        "weight": 1
+      },
+      {
+        "value": "Телевизор",
+        "weight": 1
+      },
+      {
+        "value": "Телевизор",
+        "weight": 1
+      },
+      {
+        "value": "Телеграф",
+        "weight": 1
+      },
+      {
+        "value": "Телезритель",
+        "weight": 1
+      },
+      {
+        "value": "Телеканал",
+        "weight": 1
+      },
+      {
+        "value": "Телекомпания",
+        "weight": 1
+      },
+      {
+        "value": "Телефон",
+        "weight": 1
+      },
+      {
+        "value": "Телефон",
+        "weight": 1
+      },
+      {
+        "value": "Темнота",
+        "weight": 1
+      },
+      {
+        "value": "Температура",
+        "weight": 1
+      },
+      {
+        "value": "Тёплая",
+        "weight": 1
+      },
+      {
+        "value": "Тепло",
+        "weight": 1
+      },
+      {
+        "value": "Тёплое",
+        "weight": 1
+      },
+      {
+        "value": "Теплота",
+        "weight": 1
+      },
+      {
+        "value": "Тёплый",
+        "weight": 1
+      },
+      {
+        "value": "Термометр",
+        "weight": 1
+      },
+      {
+        "value": "Термостат",
+        "weight": 1
+      },
+      {
+        "value": "Технарь",
+        "weight": 1
+      },
+      {
+        "value": "Техник",
+        "weight": 1
+      },
+      {
+        "value": "Технический",
+        "weight": 1
+      },
+      {
+        "value": "Техно",
+        "weight": 1
+      },
+      {
+        "value": "Технология",
+        "weight": 1
+      },
+      {
+        "value": "Титаник",
+        "weight": 1
+      },
+      {
+        "value": "Титры",
+        "weight": 1
+      },
+      {
+        "value": "Токио",
+        "weight": 1
+      },
+      {
+        "value": "Топор",
+        "weight": 1
+      },
+      {
+        "value": "Торнадо",
+        "weight": 1
+      },
+      {
+        "value": "Тост",
+        "weight": 1
+      },
+      {
+        "value": "Травмпункт",
+        "weight": 1
+      },
+      {
+        "value": "Трагедия",
+        "weight": 1
+      },
+      {
+        "value": "Традиции",
+        "weight": 1
+      },
+      {
+        "value": "Трактор",
+        "weight": 1
+      },
+      {
+        "value": "Транзистор",
+        "weight": 1
+      },
+      {
+        "value": "Транспорт",
+        "weight": 1
+      },
+      {
+        "value": "Траты",
+        "weight": 1
+      },
+      {
+        "value": "Трейлер",
+        "weight": 1
+      },
+      {
+        "value": "Триллер",
+        "weight": 1
+      },
+      {
+        "value": "Трогать",
+        "weight": 1
+      },
+      {
+        "value": "Троллейбус",
+        "weight": 1
+      },
+      {
+        "value": "Тропики",
+        "weight": 1
+      },
+      {
+        "value": "Туман",
+        "weight": 1
+      },
+      {
+        "value": "Туманность",
+        "weight": 1
+      },
+      {
+        "value": "Туча",
+        "weight": 1
+      },
+      {
+        "value": "Тучи",
+        "weight": 1
+      },
+      {
+        "value": "Тучка",
+        "weight": 1
+      },
+      {
+        "value": "Ужас",
+        "weight": 1
+      },
+      {
+        "value": "Ужастик",
+        "weight": 1
+      },
+      {
+        "value": "Ужасы",
+        "weight": 1
+      },
+      {
+        "value": "Улица",
+        "weight": 1
+      },
+      {
+        "value": "Универ",
+        "weight": 1
+      },
+      {
+        "value": "Упражнения",
+        "weight": 1
+      },
+      {
+        "value": "Ураган",
+        "weight": 1
+      },
+      {
+        "value": "Уроки",
+        "weight": 1
+      },
+      {
+        "value": "Условия",
+        "weight": 1
+      },
+      {
+        "value": "Установка",
+        "weight": 1
+      },
+      {
+        "value": "Устройство",
+        "weight": 1
+      },
+      {
+        "value": "Утварь",
+        "weight": 1
+      },
+      {
+        "value": "Утро",
+        "weight": 1
+      },
+      {
+        "value": "Утро",
+        "weight": 1
+      },
+      {
+        "value": "Утюг",
+        "weight": 1
+      },
+      {
+        "value": "Ухудшение",
+        "weight": 1
+      },
+      {
+        "value": "Учёба",
+        "weight": 1
+      },
+      {
+        "value": "Учебники",
+        "weight": 1
+      },
+      {
+        "value": "Ученик",
+        "weight": 1
+      },
+      {
+        "value": "Учёные",
+        "weight": 1
+      },
+      {
+        "value": "Учитель",
+        "weight": 1
+      },
+      {
+        "value": "Учить",
+        "weight": 1
+      },
+      {
+        "value": "Фантастика",
+        "weight": 1
+      },
+      {
+        "value": "Фаянс",
+        "weight": 1
+      },
+      {
+        "value": "Фейерверки",
+        "weight": 1
+      },
+      {
+        "value": "Фен",
+        "weight": 1
+      },
+      {
+        "value": "Физика",
+        "weight": 1
+      },
+      {
+        "value": "Физика",
+        "weight": 1
+      },
+      {
+        "value": "Фильм",
+        "weight": 1
+      },
+      {
+        "value": "Фильмы",
+        "weight": 1
+      },
+      {
+        "value": "Фокстрот",
+        "weight": 1
+      },
+      {
+        "value": "Фрагмент",
+        "weight": 1
+      },
+      {
+        "value": "Функция",
+        "weight": 1
+      },
+      {
+        "value": "Фэнтези",
+        "weight": 1
+      },
+      {
+        "value": "Хандра",
+        "weight": 1
+      },
+      {
+        "value": "Химия",
+        "weight": 1
+      },
+      {
+        "value": "Хлам",
+        "weight": 1
+      },
+      {
+        "value": "Хлебопечь",
+        "weight": 1
+      },
+      {
+        "value": "Хоббит",
+        "weight": 1
+      },
+      {
+        "value": "Холод",
+        "weight": 1
+      },
+      {
+        "value": "Холодильник",
+        "weight": 1
+      },
+      {
+        "value": "Холодная",
+        "weight": 1
+      },
+      {
+        "value": "Холодно",
+        "weight": 1
+      },
+      {
+        "value": "Холодное",
+        "weight": 1
+      },
+      {
+        "value": "Холодный",
+        "weight": 1
+      },
+      {
+        "value": "Холодок",
+        "weight": 1
+      },
+      {
+        "value": "Холодрыга",
+        "weight": 1
+      },
+      {
+        "value": "Хорошая",
+        "weight": 1
+      },
+      {
+        "value": "Хорошая погода",
+        "weight": 1
+      },
+      {
+        "value": "Хорошее",
+        "weight": 1
+      },
+      {
+        "value": "Хорошее",
+        "weight": 1
+      },
+      {
+        "value": "Хорошие",
+        "weight": 1
+      },
+      {
+        "value": "Хороший",
+        "weight": 1
+      },
+      {
+        "value": "Хроника",
+        "weight": 1
+      },
+      {
+        "value": "Цветные",
+        "weight": 1
+      },
+      {
+        "value": "Ценности",
+        "weight": 1
+      },
+      {
+        "value": "Цивилизация",
+        "weight": 1
+      },
+      {
+        "value": "Циклон",
+        "weight": 1
+      },
+      {
+        "value": "Цунами",
+        "weight": 1
+      },
+      {
+        "value": "Чайник",
+        "weight": 1
+      },
+      {
+        "value": "Человек",
+        "weight": 1
+      },
+      {
+        "value": "Чинить",
+        "weight": 1
+      },
+      {
+        "value": "Чистый воздух",
+        "weight": 1
+      },
+      {
+        "value": "Чудесный",
+        "weight": 1
+      },
+      {
+        "value": "Чужой",
+        "weight": 1
+      },
+      {
+        "value": "Шампанское",
+        "weight": 1
+      },
+      {
+        "value": "Шарики",
+        "weight": 1
+      },
+      {
+        "value": "Шарф",
+        "weight": 1
+      },
+      {
+        "value": "Шарф",
+        "weight": 1
+      },
+      {
+        "value": "Шедевр",
+        "weight": 1
+      },
+      {
+        "value": "Шестерня",
+        "weight": 1
+      },
+      {
+        "value": "Шкаф",
+        "weight": 1
+      },
+      {
+        "value": "Шквал",
+        "weight": 1
+      },
+      {
+        "value": "Школа",
+        "weight": 1
+      },
+      {
+        "value": "Школы",
+        "weight": 1
+      },
+      {
+        "value": "Школьные",
+        "weight": 1
+      },
+      {
+        "value": "Шпроты",
+        "weight": 1
+      },
+      {
+        "value": "Шрек",
+        "weight": 1
+      },
+      {
+        "value": "Штекер",
+        "weight": 1
+      },
+      {
+        "value": "Шторм",
+        "weight": 1
+      },
+      {
+        "value": "Щелкунчик",
+        "weight": 1
+      },
+      {
+        "value": "Экран",
+        "weight": 1
+      },
+      {
+        "value": "Экскаватор",
+        "weight": 1
+      },
+      {
+        "value": "Эксплуатация",
+        "weight": 1
+      },
+      {
+        "value": "Экстрасенс",
+        "weight": 1
+      },
+      {
+        "value": "Электричество",
+        "weight": 1
+      },
+      {
+        "value": "Электроника",
+        "weight": 1
+      },
+      {
+        "value": "Электроприбор",
+        "weight": 1
+      },
+      {
+        "value": "Электротехника",
+        "weight": 1
+      },
+      {
+        "value": "Эльфы",
+        "weight": 1
+      },
+      {
+        "value": "Эпизод",
+        "weight": 1
+      },
+      {
+        "value": "Эскадрилья",
+        "weight": 1
+      },
+      {
+        "value": "Юг",
+        "weight": 1
+      },
+      {
+        "value": "Явление",
+        "weight": 1
+      },
+      {
+        "value": "Яндекс",
+        "weight": 1
+      },
+      {
+        "value": "Япония",
+        "weight": 1
+      },
+      {
+        "value": "Яркая",
+        "weight": 1
+      },
+      {
+        "value": "Ясная",
+        "weight": 1
+      },
+      {
+        "value": "Ясно",
+        "weight": 1
+      }
+    ]
+  },
+  {
+    "id": "0b8e8975-f2d3-4b23-ae5d-71b6344a63a5",
+    "slug": "tech",
+    "label": "Tech",
+    "words": [
+      {
+        "value": "Авто",
+        "weight": 1
+      },
+      {
+        "value": "Автобаза",
+        "weight": 1
+      },
+      {
+        "value": "Автобус",
+        "weight": 1
+      },
+      {
+        "value": "Автомашина",
+        "weight": 1
+      },
+      {
+        "value": "Автомобиль",
+        "weight": 1
+      },
+      {
+        "value": "Айфон",
+        "weight": 1
+      },
+      {
+        "value": "Аккумулятор",
+        "weight": 1
+      },
+      {
+        "value": "Аксессуар",
+        "weight": 1
+      },
+      {
+        "value": "Амортизатор",
+        "weight": 1
+      },
+      {
+        "value": "Амортизация",
+        "weight": 1
+      },
+      {
+        "value": "Аппарат",
+        "weight": 1
+      },
+      {
+        "value": "Аппаратура",
+        "weight": 1
+      },
+      {
+        "value": "Безопасности",
+        "weight": 1
+      },
+      {
+        "value": "Блендер",
+        "weight": 1
+      },
+      {
+        "value": "Бортмеханик",
+        "weight": 1
+      },
+      {
+        "value": "Боя",
+        "weight": 1
+      },
+      {
+        "value": "Броневик",
+        "weight": 1
+      },
+      {
+        "value": "Бронетранспортёр",
+        "weight": 1
+      },
+      {
+        "value": "БТР",
+        "weight": 1
+      },
+      {
+        "value": "Будущее",
+        "weight": 1
+      },
+      {
+        "value": "Быт",
+        "weight": 1
+      },
+      {
+        "value": "Бытовая",
+        "weight": 1
+      },
+      {
+        "value": "Бытовая техника",
+        "weight": 1
+      },
+      {
+        "value": "Велосипед",
+        "weight": 1
+      },
+      {
+        "value": "Вертолёт",
+        "weight": 1
+      },
+      {
+        "value": "Видеокамера",
+        "weight": 1
+      },
+      {
+        "value": "Включение",
+        "weight": 1
+      },
+      {
+        "value": "Военная техника",
+        "weight": 1
+      },
+      {
+        "value": "Военные",
+        "weight": 1
+      },
+      {
+        "value": "Вор",
+        "weight": 1
+      },
+      {
+        "value": "Гаджет",
+        "weight": 1
+      },
+      {
+        "value": "Гарантия",
+        "weight": 1
+      },
+      {
+        "value": "Глюк",
+        "weight": 1
+      },
+      {
+        "value": "Датчик",
+        "weight": 1
+      },
+      {
+        "value": "Двигатель",
+        "weight": 1
+      },
+      {
+        "value": "Движение",
+        "weight": 1
+      },
+      {
+        "value": "Дискета",
+        "weight": 1
+      },
+      {
+        "value": "Дисплей",
+        "weight": 1
+      },
+      {
+        "value": "Ездить",
+        "weight": 1
+      },
+      {
+        "value": "Железо",
+        "weight": 1
+      },
+      {
+        "value": "Журнал",
+        "weight": 1
+      },
+      {
+        "value": "Завод",
+        "weight": 1
+      },
+      {
+        "value": "Зоотехника",
+        "weight": 1
+      },
+      {
+        "value": "Игра",
+        "weight": 1
+      },
+      {
+        "value": "Идеализация",
+        "weight": 1
+      },
+      {
+        "value": "Изобретатель",
+        "weight": 1
+      },
+      {
+        "value": "Изобретение",
+        "weight": 1
+      },
+      {
+        "value": "Индустриализация",
+        "weight": 1
+      },
+      {
+        "value": "Инженер",
+        "weight": 1
+      },
+      {
+        "value": "Инновации",
+        "weight": 1
+      },
+      {
+        "value": "Инструменты",
+        "weight": 1
+      },
+      {
+        "value": "Интернет",
+        "weight": 1
+      },
+      {
+        "value": "Искусство",
+        "weight": 1
+      },
+      {
+        "value": "Исполнение",
+        "weight": 1
+      },
+      {
+        "value": "Использование",
+        "weight": 1
+      },
+      {
+        "value": "Качественный",
+        "weight": 1
+      },
+      {
+        "value": "Китайская",
+        "weight": 1
+      },
+      {
+        "value": "Клавиши",
+        "weight": 1
+      },
+      {
+        "value": "Кнопки",
+        "weight": 1
+      },
+      {
+        "value": "Кнопочка",
+        "weight": 1
+      },
+      {
+        "value": "Колонки",
+        "weight": 1
+      },
+      {
+        "value": "Комбайн",
+        "weight": 1
+      },
+      {
+        "value": "Комп",
+        "weight": 1
+      },
+      {
+        "value": "Компьютер",
+        "weight": 1
+      },
+      {
+        "value": "Компьютеризация",
+        "weight": 1
+      },
+      {
+        "value": "Кондиционер",
+        "weight": 1
+      },
+      {
+        "value": "Конфискат",
+        "weight": 1
+      },
+      {
+        "value": "Коробка",
+        "weight": 1
+      },
+      {
+        "value": "Котловина",
+        "weight": 1
+      },
+      {
+        "value": "Кухонный комбайн",
+        "weight": 1
+      },
+      {
+        "value": "Ломбард",
+        "weight": 1
+      },
+      {
+        "value": "Лопасть",
+        "weight": 1
+      },
+      {
+        "value": "Магазин",
+        "weight": 1
+      },
+      {
+        "value": "Магнитофон",
+        "weight": 1
+      },
+      {
+        "value": "Мастер",
+        "weight": 1
+      },
+      {
+        "value": "Машина",
+        "weight": 1
+      },
+      {
+        "value": "Машинка",
+        "weight": 1
+      },
+      {
+        "value": "Машины",
+        "weight": 1
+      },
+      {
+        "value": "Металл",
+        "weight": 1
+      },
+      {
+        "value": "Металлическая",
+        "weight": 1
+      },
+      {
+        "value": "Метро",
+        "weight": 1
+      },
+      {
+        "value": "Механизм",
+        "weight": 1
+      },
+      {
+        "value": "Механик",
+        "weight": 1
+      },
+      {
+        "value": "Механика",
+        "weight": 1
+      },
+      {
+        "value": "Микроволновка",
+        "weight": 1
+      },
+      {
+        "value": "Миксер",
+        "weight": 1
+      },
+      {
+        "value": "Мобилизация",
+        "weight": 1
+      },
+      {
+        "value": "Мобильник",
+        "weight": 1
+      },
+      {
+        "value": "Молодёжь",
+        "weight": 1
+      },
+      {
+        "value": "Монитор",
+        "weight": 1
+      },
+      {
+        "value": "Мотор",
+        "weight": 1
+      },
+      {
+        "value": "Моторист",
+        "weight": 1
+      },
+      {
+        "value": "Мотоцикл",
+        "weight": 1
+      },
+      {
+        "value": "Мощность",
+        "weight": 1
+      },
+      {
+        "value": "Музыка",
+        "weight": 1
+      },
+      {
+        "value": "Мясорубка",
+        "weight": 1
+      },
+      {
+        "value": "Настройка",
+        "weight": 1
+      },
+      {
+        "value": "Наука",
+        "weight": 1
+      },
+      {
+        "value": "Наука и техника",
+        "weight": 1
+      },
+      {
+        "value": "Неполадки",
+        "weight": 1
+      },
+      {
+        "value": "Номенклатура",
+        "weight": 1
+      },
+      {
+        "value": "Ноутбук",
+        "weight": 1
+      },
+      {
+        "value": "Обиход",
+        "weight": 1
+      },
+      {
+        "value": "Оборудование",
+        "weight": 1
+      },
+      {
+        "value": "Оператор",
+        "weight": 1
+      },
+      {
+        "value": "Отрасль",
+        "weight": 1
+      },
+      {
+        "value": "Парад",
+        "weight": 1
+      },
+      {
+        "value": "Передатчик",
+        "weight": 1
+      },
+      {
+        "value": "Планшет",
+        "weight": 1
+      },
+      {
+        "value": "Плеер",
+        "weight": 1
+      },
+      {
+        "value": "Плита",
+        "weight": 1
+      },
+      {
+        "value": "Подключение",
+        "weight": 1
+      },
+      {
+        "value": "Поезд",
+        "weight": 1
+      },
+      {
+        "value": "Полигон",
+        "weight": 1
+      },
+      {
+        "value": "Помощь",
+        "weight": 1
+      },
+      {
+        "value": "Посудомоечная машина",
+        "weight": 1
+      },
+      {
+        "value": "Починка",
+        "weight": 1
+      },
+      {
+        "value": "Предмет",
+        "weight": 1
+      },
+      {
+        "value": "Прибор",
+        "weight": 1
+      },
+      {
+        "value": "Приборы",
+        "weight": 1
+      },
+      {
+        "value": "Применение",
+        "weight": 1
+      },
+      {
+        "value": "Принтер",
+        "weight": 1
+      },
+      {
+        "value": "Приобретение",
+        "weight": 1
+      },
+      {
+        "value": "Провод",
+        "weight": 1
+      },
+      {
+        "value": "Провода",
+        "weight": 1
+      },
+      {
+        "value": "Программа",
+        "weight": 1
+      },
+      {
+        "value": "Программист",
+        "weight": 1
+      },
+      {
+        "value": "Прогресс",
+        "weight": 1
+      },
+      {
+        "value": "Продажи",
+        "weight": 1
+      },
+      {
+        "value": "Производство",
+        "weight": 1
+      },
+      {
+        "value": "Прокат",
+        "weight": 1
+      },
+      {
+        "value": "Прокладка",
+        "weight": 1
+      },
+      {
+        "value": "Прототип",
+        "weight": 1
+      },
+      {
+        "value": "Пылесос",
+        "weight": 1
+      },
+      {
+        "value": "Работа",
+        "weight": 1
+      },
+      {
+        "value": "Рабочая",
+        "weight": 1
+      },
+      {
+        "value": "Радар",
+        "weight": 1
+      },
+      {
+        "value": "Радио",
+        "weight": 1
+      },
+      {
+        "value": "Развитие",
+        "weight": 1
+      },
+      {
+        "value": "Разработка",
+        "weight": 1
+      },
+      {
+        "value": "Рация",
+        "weight": 1
+      },
+      {
+        "value": "Регулятор",
+        "weight": 1
+      },
+      {
+        "value": "Ремонт",
+        "weight": 1
+      },
+      {
+        "value": "Робот",
+        "weight": 1
+      },
+      {
+        "value": "Роботы",
+        "weight": 1
+      },
+      {
+        "value": "Рычаг",
+        "weight": 1
+      },
+      {
+        "value": "Самолёт",
+        "weight": 1
+      },
+      {
+        "value": "Самоходка",
+        "weight": 1
+      },
+      {
+        "value": "Сантехник",
+        "weight": 1
+      },
+      {
+        "value": "Сантехника",
+        "weight": 1
+      },
+      {
+        "value": "Сисадмин",
+        "weight": 1
+      },
+      {
+        "value": "Система",
+        "weight": 1
+      },
+      {
+        "value": "Склад",
+        "weight": 1
+      },
+      {
+        "value": "Смартфон",
+        "weight": 1
+      },
+      {
+        "value": "Спорт",
+        "weight": 1
+      },
+      {
+        "value": "Станок",
+        "weight": 1
+      },
+      {
+        "value": "Стиралка",
+        "weight": 1
+      },
+      {
+        "value": "Стиральная машина",
+        "weight": 1
+      },
+      {
+        "value": "Схема",
+        "weight": 1
+      },
+      {
+        "value": "Танк",
+        "weight": 1
+      },
+      {
+        "value": "Танки",
+        "weight": 1
+      },
+      {
+        "value": "Телевизор",
+        "weight": 1
+      },
+      {
+        "value": "Телефон",
+        "weight": 1
+      },
+      {
+        "value": "Термостат",
+        "weight": 1
+      },
+      {
+        "value": "Технарь",
+        "weight": 1
+      },
+      {
+        "value": "Техник",
+        "weight": 1
+      },
+      {
+        "value": "Технический",
+        "weight": 1
+      },
+      {
+        "value": "Техно",
+        "weight": 1
+      },
+      {
+        "value": "Технология",
+        "weight": 1
+      },
+      {
+        "value": "Токио",
+        "weight": 1
+      },
+      {
+        "value": "Трактор",
+        "weight": 1
+      },
+      {
+        "value": "Транзистор",
+        "weight": 1
+      },
+      {
+        "value": "Транспорт",
+        "weight": 1
+      },
+      {
+        "value": "Троллейбус",
+        "weight": 1
+      },
+      {
+        "value": "Упражнения",
+        "weight": 1
+      },
+      {
+        "value": "Установка",
+        "weight": 1
+      },
+      {
+        "value": "Устройство",
+        "weight": 1
+      },
+      {
+        "value": "Утюг",
+        "weight": 1
+      },
+      {
+        "value": "Учёные",
+        "weight": 1
+      },
+      {
+        "value": "Фаянс",
+        "weight": 1
+      },
+      {
+        "value": "Фен",
+        "weight": 1
+      },
+      {
+        "value": "Физика",
+        "weight": 1
+      },
+      {
+        "value": "Фокстрот",
+        "weight": 1
+      },
+      {
+        "value": "Функция",
+        "weight": 1
+      },
+      {
+        "value": "Хлебопечь",
+        "weight": 1
+      },
+      {
+        "value": "Холодильник",
+        "weight": 1
+      },
+      {
+        "value": "Цивилизация",
+        "weight": 1
+      },
+      {
+        "value": "Чайник",
+        "weight": 1
+      },
+      {
+        "value": "Человек",
+        "weight": 1
+      },
+      {
+        "value": "Чинить",
+        "weight": 1
+      },
+      {
+        "value": "Шестерня",
+        "weight": 1
+      },
+      {
+        "value": "Штекер",
+        "weight": 1
+      },
+      {
+        "value": "Экскаватор",
+        "weight": 1
+      },
+      {
+        "value": "Эксплуатация",
+        "weight": 1
+      },
+      {
+        "value": "Электричество",
+        "weight": 1
+      },
+      {
+        "value": "Электроника",
+        "weight": 1
+      },
+      {
+        "value": "Электроприбор",
+        "weight": 1
+      },
+      {
+        "value": "Электротехника",
+        "weight": 1
+      },
+      {
+        "value": "Эскадрилья",
+        "weight": 1
+      },
+      {
+        "value": "Япония",
+        "weight": 1
+      }
+    ]
+  },
+  {
+    "id": "74a48eff-5667-4c8f-91bc-5ef1ae1c2fad",
+    "slug": "movie",
+    "label": "Movie",
+    "words": [
+      {
+        "value": "Актёр",
+        "weight": 1
+      },
+      {
+        "value": "Актёры",
+        "weight": 1
+      },
+      {
+        "value": "Актриса",
+        "weight": 1
+      },
+      {
+        "value": "Аниме",
+        "weight": 1
+      },
+      {
+        "value": "Антракт",
+        "weight": 1
+      },
+      {
+        "value": "Артист",
+        "weight": 1
+      },
+      {
+        "value": "Артистка",
+        "weight": 1
+      },
+      {
+        "value": "Артисты",
+        "weight": 1
+      },
+      {
+        "value": "Афиша",
+        "weight": 1
+      },
+      {
+        "value": "Балбес",
+        "weight": 1
+      },
+      {
+        "value": "Безбилетник",
+        "weight": 1
+      },
+      {
+        "value": "Билет",
+        "weight": 1
+      },
+      {
+        "value": "Билетик",
+        "weight": 1
+      },
+      {
+        "value": "Билеты",
+        "weight": 1
+      },
+      {
+        "value": "Блокбастер",
+        "weight": 1
+      },
+      {
+        "value": "Боевик",
+        "weight": 1
+      },
+      {
+        "value": "Бригада",
+        "weight": 1
+      },
+      {
+        "value": "Веселье",
+        "weight": 1
+      },
+      {
+        "value": "Вечер",
+        "weight": 1
+      },
+      {
+        "value": "Видео",
+        "weight": 1
+      },
+      {
+        "value": "Видеокамера",
+        "weight": 1
+      },
+      {
+        "value": "Видеть",
+        "weight": 1
+      },
+      {
+        "value": "Вино",
+        "weight": 1
+      },
+      {
+        "value": "Время",
+        "weight": 1
+      },
+      {
+        "value": "Героиня",
+        "weight": 1
+      },
+      {
+        "value": "Герой",
+        "weight": 1
+      },
+      {
+        "value": "Глухарь",
+        "weight": 1
+      },
+      {
+        "value": "Гоблин",
+        "weight": 1
+      },
+      {
+        "value": "Голливуд",
+        "weight": 1
+      },
+      {
+        "value": "Группа",
+        "weight": 1
+      },
+      {
+        "value": "Девушка",
+        "weight": 1
+      },
+      {
+        "value": "Девчата",
+        "weight": 1
+      },
+      {
+        "value": "Декорация",
+        "weight": 1
+      },
+      {
+        "value": "Деньги",
+        "weight": 1
+      },
+      {
+        "value": "Детектив",
+        "weight": 1
+      },
+      {
+        "value": "Дети",
+        "weight": 1
+      },
+      {
+        "value": "Джеймс бонд",
+        "weight": 1
+      },
+      {
+        "value": "Диван",
+        "weight": 1
+      },
+      {
+        "value": "Диск",
+        "weight": 1
+      },
+      {
+        "value": "Дисковод",
+        "weight": 1
+      },
+      {
+        "value": "Дисплей",
+        "weight": 1
+      },
+      {
+        "value": "Дозор",
+        "weight": 1
+      },
+      {
+        "value": "Домино",
+        "weight": 1
+      },
+      {
+        "value": "Драма",
+        "weight": 1
+      },
+      {
+        "value": "Друзья",
+        "weight": 1
+      },
+      {
+        "value": "Жандарм",
+        "weight": 1
+      },
+      {
+        "value": "Жанр",
+        "weight": 1
+      },
+      {
+        "value": "Зал",
+        "weight": 1
+      },
+      {
+        "value": "Звук",
+        "weight": 1
+      },
+      {
+        "value": "Знаменитость",
+        "weight": 1
+      },
+      {
+        "value": "Зрелище",
+        "weight": 1
+      },
+      {
+        "value": "Зрители",
+        "weight": 1
+      },
+      {
+        "value": "Зритель",
+        "weight": 1
+      },
+      {
+        "value": "Игра",
+        "weight": 1
+      },
+      {
+        "value": "Игры престолов",
+        "weight": 1
+      },
+      {
+        "value": "Индия",
+        "weight": 1
+      },
+      {
+        "value": "Интересно",
+        "weight": 1
+      },
+      {
+        "value": "Интересное",
+        "weight": 1
+      },
+      {
+        "value": "Ирония",
+        "weight": 1
+      },
+      {
+        "value": "Искусство",
+        "weight": 1
+      },
+      {
+        "value": "Кадр",
+        "weight": 1
+      },
+      {
+        "value": "Камера",
+        "weight": 1
+      },
+      {
+        "value": "Картина",
+        "weight": 1
+      },
+      {
+        "value": "Каскадёр",
+        "weight": 1
+      },
+      {
+        "value": "Кассета",
+        "weight": 1
+      },
+      {
+        "value": "Кастинг",
+        "weight": 1
+      },
+      {
+        "value": "Кинематограф",
+        "weight": 1
+      },
+      {
+        "value": "Кинескоп",
+        "weight": 1
+      },
+      {
+        "value": "Киножурнал",
+        "weight": 1
+      },
+      {
+        "value": "Кинозал",
+        "weight": 1
+      },
+      {
+        "value": "Кинолента",
+        "weight": 1
+      },
+      {
+        "value": "Кинорежиссёр",
+        "weight": 1
+      },
+      {
+        "value": "Киностудия",
+        "weight": 1
+      },
+      {
+        "value": "Кинотеатр",
+        "weight": 1
+      },
+      {
+        "value": "Кинофильм",
+        "weight": 1
+      },
+      {
+        "value": "Классика",
+        "weight": 1
+      },
+      {
+        "value": "Кола",
+        "weight": 1
+      },
+      {
+        "value": "Комедия",
+        "weight": 1
+      },
+      {
+        "value": "Кошмар",
+        "weight": 1
+      },
+      {
+        "value": "Кресло",
+        "weight": 1
+      },
+      {
+        "value": "Культура",
+        "weight": 1
+      },
+      {
+        "value": "Лас-Вегас",
+        "weight": 1
+      },
+      {
+        "value": "Лента",
+        "weight": 1
+      },
+      {
+        "value": "Любовь",
+        "weight": 1
+      },
+      {
+        "value": "Люди",
+        "weight": 1
+      },
+      {
+        "value": "Мелодрама",
+        "weight": 1
+      },
+      {
+        "value": "Места",
+        "weight": 1
+      },
+      {
+        "value": "Место",
+        "weight": 1
+      },
+      {
+        "value": "Мистика",
+        "weight": 1
+      },
+      {
+        "value": "Монтаж",
+        "weight": 1
+      },
+      {
+        "value": "Мосфильм",
+        "weight": 1
+      },
+      {
+        "value": "Музыка",
+        "weight": 1
+      },
+      {
+        "value": "Мультик",
+        "weight": 1
+      },
+      {
+        "value": "Мультипликация",
+        "weight": 1
+      },
+      {
+        "value": "Мультфильм",
+        "weight": 1
+      },
+      {
+        "value": "Мультфильмы",
+        "weight": 1
+      },
+      {
+        "value": "Мутант",
+        "weight": 1
+      },
+      {
+        "value": "Мыльная опера",
+        "weight": 1
+      },
+      {
+        "value": "Научная фантастика",
+        "weight": 1
+      },
+      {
+        "value": "Новелла",
+        "weight": 1
+      },
+      {
+        "value": "НТВ",
+        "weight": 1
+      },
+      {
+        "value": "Образ",
+        "weight": 1
+      },
+      {
+        "value": "Онлайн-кинотеатр",
+        "weight": 1
+      },
+      {
+        "value": "Оператор",
+        "weight": 1
+      },
+      {
+        "value": "Оскар",
+        "weight": 1
+      },
+      {
+        "value": "Отдых",
+        "weight": 1
+      },
+      {
+        "value": "Очки",
+        "weight": 1
+      },
+      {
+        "value": "Пара",
+        "weight": 1
+      },
+      {
+        "value": "Парень",
+        "weight": 1
+      },
+      {
+        "value": "Пауза",
+        "weight": 1
+      },
+      {
+        "value": "Пересмотр",
+        "weight": 1
+      },
+      {
+        "value": "Персонаж",
+        "weight": 1
+      },
+      {
+        "value": "Пила",
+        "weight": 1
+      },
+      {
+        "value": "Плазма",
+        "weight": 1
+      },
+      {
+        "value": "Плёнка",
+        "weight": 1
+      },
+      {
+        "value": "Пленница",
+        "weight": 1
+      },
+      {
+        "value": "Подражание",
+        "weight": 1
+      },
+      {
+        "value": "Показ",
+        "weight": 1
+      },
+      {
+        "value": "Показать",
+        "weight": 1
+      },
+      {
+        "value": "Показывать",
+        "weight": 1
+      },
+      {
+        "value": "Попкорн",
+        "weight": 1
+      },
+      {
+        "value": "Популярность",
+        "weight": 1
+      },
+      {
+        "value": "Посетитель",
+        "weight": 1
+      },
+      {
+        "value": "Посещение",
+        "weight": 1
+      },
+      {
+        "value": "Постановка",
+        "weight": 1
+      },
+      {
+        "value": "Поцелуй",
+        "weight": 1
+      },
+      {
+        "value": "Представление",
+        "weight": 1
+      },
+      {
+        "value": "Премьера",
+        "weight": 1
+      },
+      {
+        "value": "Приключения",
+        "weight": 1
+      },
+      {
+        "value": "Продолжение",
+        "weight": 1
+      },
+      {
+        "value": "Продюсер",
+        "weight": 1
+      },
+      {
+        "value": "Просмотр",
+        "weight": 1
+      },
+      {
+        "value": "Радость",
+        "weight": 1
+      },
+      {
+        "value": "Развлечение",
+        "weight": 1
+      },
+      {
+        "value": "Развлечения",
+        "weight": 1
+      },
+      {
+        "value": "Режиссёр",
+        "weight": 1
+      },
+      {
+        "value": "Реклама",
+        "weight": 1
+      },
+      {
+        "value": "Репертуар",
+        "weight": 1
+      },
+      {
+        "value": "Рецензия",
+        "weight": 1
+      },
+      {
+        "value": "Розовая пантера",
+        "weight": 1
+      },
+      {
+        "value": "Ролик",
+        "weight": 1
+      },
+      {
+        "value": "Роль",
+        "weight": 1
+      },
+      {
+        "value": "Романтика",
+        "weight": 1
+      },
+      {
+        "value": "Ряд",
+        "weight": 1
+      },
+      {
+        "value": "Свидание",
+        "weight": 1
+      },
+      {
+        "value": "Свидания",
+        "weight": 1
+      },
+      {
+        "value": "Свиданье",
+        "weight": 1
+      },
+      {
+        "value": "Сеанс",
+        "weight": 1
+      },
+      {
+        "value": "Сериал",
+        "weight": 1
+      },
+      {
+        "value": "Сериалы",
+        "weight": 1
+      },
+      {
+        "value": "Слёзы",
+        "weight": 1
+      },
+      {
+        "value": "Смех",
+        "weight": 1
+      },
+      {
+        "value": "Смотреть",
+        "weight": 1
+      },
+      {
+        "value": "Снимать",
+        "weight": 1
+      },
+      {
+        "value": "Снятие",
+        "weight": 1
+      },
+      {
+        "value": "Советское",
+        "weight": 1
+      },
+      {
+        "value": "Спонсор",
+        "weight": 1
+      },
+      {
+        "value": "Спрут",
+        "weight": 1
+      },
+      {
+        "value": "Сталкер",
+        "weight": 1
+      },
+      {
+        "value": "Страх",
+        "weight": 1
+      },
+      {
+        "value": "Страшная",
+        "weight": 1
+      },
+      {
+        "value": "Страшное",
+        "weight": 1
+      },
+      {
+        "value": "Студия",
+        "weight": 1
+      },
+      {
+        "value": "Сумерки",
+        "weight": 1
+      },
+      {
+        "value": "Суперзвезда",
+        "weight": 1
+      },
+      {
+        "value": "Сцена",
+        "weight": 1
+      },
+      {
+        "value": "Сценарий",
+        "weight": 1
+      },
+      {
+        "value": "Сценарист",
+        "weight": 1
+      },
+      {
+        "value": "Съёмка",
+        "weight": 1
+      },
+      {
+        "value": "Съёмки",
+        "weight": 1
+      },
+      {
+        "value": "Сюжет",
+        "weight": 1
+      },
+      {
+        "value": "Театр",
+        "weight": 1
+      },
+      {
+        "value": "Телевидение",
+        "weight": 1
+      },
+      {
+        "value": "Телевизор",
+        "weight": 1
+      },
+      {
+        "value": "Телезритель",
+        "weight": 1
+      },
+      {
+        "value": "Телеканал",
+        "weight": 1
+      },
+      {
+        "value": "Телекомпания",
+        "weight": 1
+      },
+      {
+        "value": "Темнота",
+        "weight": 1
+      },
+      {
+        "value": "Титаник",
+        "weight": 1
+      },
+      {
+        "value": "Титры",
+        "weight": 1
+      },
+      {
+        "value": "Трагедия",
+        "weight": 1
+      },
+      {
+        "value": "Трейлер",
+        "weight": 1
+      },
+      {
+        "value": "Триллер",
+        "weight": 1
+      },
+      {
+        "value": "Ужас",
+        "weight": 1
+      },
+      {
+        "value": "Ужастик",
+        "weight": 1
+      },
+      {
+        "value": "Ужасы",
+        "weight": 1
+      },
+      {
+        "value": "Фантастика",
+        "weight": 1
+      },
+      {
+        "value": "Фильм",
+        "weight": 1
+      },
+      {
+        "value": "Фильмы",
+        "weight": 1
+      },
+      {
+        "value": "Фрагмент",
+        "weight": 1
+      },
+      {
+        "value": "Фэнтези",
+        "weight": 1
+      },
+      {
+        "value": "Хоббит",
+        "weight": 1
+      },
+      {
+        "value": "Хорошее",
+        "weight": 1
+      },
+      {
+        "value": "Хроника",
+        "weight": 1
+      },
+      {
+        "value": "Чужой",
+        "weight": 1
+      },
+      {
+        "value": "Шедевр",
+        "weight": 1
+      },
+      {
+        "value": "Шрек",
+        "weight": 1
+      },
+      {
+        "value": "Экран",
+        "weight": 1
+      },
+      {
+        "value": "Эльфы",
+        "weight": 1
+      },
+      {
+        "value": "Эпизод",
+        "weight": 1
+      }
+    ]
+  },
+  {
+    "id": "2ddd37b0-28aa-49d2-9447-4d3d9a8e31c9",
+    "slug": "weather",
+    "label": "Weather",
+    "words": [
+      {
+        "value": "Адаптация",
+        "weight": 1
+      },
+      {
+        "value": "Аномалия",
+        "weight": 1
+      },
+      {
+        "value": "Антициклон",
+        "weight": 1
+      },
+      {
+        "value": "Атмосфера",
+        "weight": 1
+      },
+      {
+        "value": "Безоблачно",
+        "weight": 1
+      },
+      {
+        "value": "Буря",
+        "weight": 1
+      },
+      {
+        "value": "Весна",
+        "weight": 1
+      },
+      {
+        "value": "Ветер",
+        "weight": 1
+      },
+      {
+        "value": "Ветерок",
+        "weight": 1
+      },
+      {
+        "value": "Влага",
+        "weight": 1
+      },
+      {
+        "value": "Влажность",
+        "weight": 1
+      },
+      {
+        "value": "Влияние",
+        "weight": 1
+      },
+      {
+        "value": "Вода",
+        "weight": 1
+      },
+      {
+        "value": "Водоворот",
+        "weight": 1
+      },
+      {
+        "value": "Воздух",
+        "weight": 1
+      },
+      {
+        "value": "Времена года",
+        "weight": 1
+      },
+      {
+        "value": "Вылазка",
+        "weight": 1
+      },
+      {
+        "value": "Вьюга",
+        "weight": 1
+      },
+      {
+        "value": "Вялость",
+        "weight": 1
+      },
+      {
+        "value": "Год",
+        "weight": 1
+      },
+      {
+        "value": "Город",
+        "weight": 1
+      },
+      {
+        "value": "Горячо",
+        "weight": 1
+      },
+      {
+        "value": "Град",
+        "weight": 1
+      },
+      {
+        "value": "Градус",
+        "weight": 1
+      },
+      {
+        "value": "Грёзы",
+        "weight": 1
+      },
+      {
+        "value": "Гроза",
+        "weight": 1
+      },
+      {
+        "value": "Гром",
+        "weight": 1
+      },
+      {
+        "value": "Грязь",
+        "weight": 1
+      },
+      {
+        "value": "Гугл",
+        "weight": 1
+      },
+      {
+        "value": "Давление",
+        "weight": 1
+      },
+      {
+        "value": "День",
+        "weight": 1
+      },
+      {
+        "value": "Диктор",
+        "weight": 1
+      },
+      {
+        "value": "Добрая",
+        "weight": 1
+      },
+      {
+        "value": "Дожди",
+        "weight": 1
+      },
+      {
+        "value": "Дождливая",
+        "weight": 1
+      },
+      {
+        "value": "Дождливая погода",
+        "weight": 1
+      },
+      {
+        "value": "Дождливо",
+        "weight": 1
+      },
+      {
+        "value": "Дождь",
+        "weight": 1
+      },
+      {
+        "value": "Дом",
+        "weight": 1
+      },
+      {
+        "value": "Дует",
+        "weight": 1
+      },
+      {
+        "value": "Жар",
+        "weight": 1
+      },
+      {
+        "value": "Жара",
+        "weight": 1
+      },
+      {
+        "value": "Жаркий",
+        "weight": 1
+      },
+      {
+        "value": "Жарко",
+        "weight": 1
+      },
+      {
+        "value": "Ждать",
+        "weight": 1
+      },
+      {
+        "value": "Зима",
+        "weight": 1
+      },
+      {
+        "value": "Зимняя",
+        "weight": 1
+      },
+      {
+        "value": "Зной",
+        "weight": 1
+      },
+      {
+        "value": "Золотая осень",
+        "weight": 1
+      },
+      {
+        "value": "Зонд",
+        "weight": 1
+      },
+      {
+        "value": "Зонт",
+        "weight": 1
+      },
+      {
+        "value": "Зонтик",
+        "weight": 1
+      },
+      {
+        "value": "Изменение",
+        "weight": 1
+      },
+      {
+        "value": "Капелька",
+        "weight": 1
+      },
+      {
+        "value": "Катаклизм",
+        "weight": 1
+      },
+      {
+        "value": "Климат",
+        "weight": 1
+      },
+      {
+        "value": "Красивая",
+        "weight": 1
+      },
+      {
+        "value": "Лёд",
+        "weight": 1
+      },
+      {
+        "value": "Летает",
+        "weight": 1
+      },
+      {
+        "value": "Летняя",
+        "weight": 1
+      },
+      {
+        "value": "Лето",
+        "weight": 1
+      },
+      {
+        "value": "Ливень",
+        "weight": 1
+      },
+      {
+        "value": "Лужа",
+        "weight": 1
+      },
+      {
+        "value": "Лужи",
+        "weight": 1
+      },
+      {
+        "value": "Лужица",
+        "weight": 1
+      },
+      {
+        "value": "Лучшая",
+        "weight": 1
+      },
+      {
+        "value": "Любимая",
+        "weight": 1
+      },
+      {
+        "value": "Марево",
+        "weight": 1
+      },
+      {
+        "value": "Мерзлота",
+        "weight": 1
+      },
+      {
+        "value": "Метель",
+        "weight": 1
+      },
+      {
+        "value": "Метеоролог",
+        "weight": 1
+      },
+      {
+        "value": "Мокрота",
+        "weight": 1
+      },
+      {
+        "value": "Мокрый",
+        "weight": 1
+      },
+      {
+        "value": "Молниеносно",
+        "weight": 1
+      },
+      {
+        "value": "Молния",
+        "weight": 1
+      },
+      {
+        "value": "Море",
+        "weight": 1
+      },
+      {
+        "value": "Мороз",
+        "weight": 1
+      },
+      {
+        "value": "Морская",
+        "weight": 1
+      },
+      {
+        "value": "Мрачность",
+        "weight": 1
+      },
+      {
+        "value": "Настроение",
+        "weight": 1
+      },
+      {
+        "value": "Небо",
+        "weight": 1
+      },
+      {
+        "value": "Небосвод",
+        "weight": 1
+      },
+      {
+        "value": "Невзгода",
+        "weight": 1
+      },
+      {
+        "value": "Ненастье",
+        "weight": 1
+      },
+      {
+        "value": "Непогода",
+        "weight": 1
+      },
+      {
+        "value": "Новости",
+        "weight": 1
+      },
+      {
+        "value": "Новость",
+        "weight": 1
+      },
+      {
+        "value": "Ночь",
+        "weight": 1
+      },
+      {
+        "value": "Ноябрь",
+        "weight": 1
+      },
+      {
+        "value": "Облака",
+        "weight": 1
+      },
+      {
+        "value": "Облако",
+        "weight": 1
+      },
+      {
+        "value": "Облачка",
+        "weight": 1
+      },
+      {
+        "value": "Облачко",
+        "weight": 1
+      },
+      {
+        "value": "Облачность",
+        "weight": 1
+      },
+      {
+        "value": "Одежда",
+        "weight": 1
+      },
+      {
+        "value": "Окружающая среда",
+        "weight": 1
+      },
+      {
+        "value": "Октябрь",
+        "weight": 1
+      },
+      {
+        "value": "Осадки",
+        "weight": 1
+      },
+      {
+        "value": "Осадок",
+        "weight": 1
+      },
+      {
+        "value": "Осенний",
+        "weight": 1
+      },
+      {
+        "value": "Осень",
+        "weight": 1
+      },
+      {
+        "value": "Отдых",
+        "weight": 1
+      },
+      {
+        "value": "Отличное",
+        "weight": 1
+      },
+      {
+        "value": "Оттепель",
+        "weight": 1
+      },
+      {
+        "value": "Очки",
+        "weight": 1
+      },
+      {
+        "value": "Пасмурная",
+        "weight": 1
+      },
+      {
+        "value": "Пасмурная погода",
+        "weight": 1
+      },
+      {
+        "value": "Пасмурно",
+        "weight": 1
+      },
+      {
+        "value": "Перемена",
+        "weight": 1
+      },
+      {
+        "value": "Перемены",
+        "weight": 1
+      },
+      {
+        "value": "Плохая",
+        "weight": 1
+      },
+      {
+        "value": "Плохая погода",
+        "weight": 1
+      },
+      {
+        "value": "Плохое",
+        "weight": 1
+      },
+      {
+        "value": "Плохой",
+        "weight": 1
+      },
+      {
+        "value": "Плюс",
+        "weight": 1
+      },
+      {
+        "value": "Порыв",
+        "weight": 1
+      },
+      {
+        "value": "Потепление",
+        "weight": 1
+      },
+      {
+        "value": "Похолодание",
+        "weight": 1
+      },
+      {
+        "value": "Прекрасный",
+        "weight": 1
+      },
+      {
+        "value": "Прелесть",
+        "weight": 1
+      },
+      {
+        "value": "Пригодность",
+        "weight": 1
+      },
+      {
+        "value": "Примета",
+        "weight": 1
+      },
+      {
+        "value": "Природа",
+        "weight": 1
+      },
+      {
+        "value": "Прогноз",
+        "weight": 1
+      },
+      {
+        "value": "Прогноз погоды",
+        "weight": 1
+      },
+      {
+        "value": "Прогулка",
+        "weight": 1
+      },
+      {
+        "value": "Прогулки",
+        "weight": 1
+      },
+      {
+        "value": "Прохладно",
+        "weight": 1
+      },
+      {
+        "value": "Радуга",
+        "weight": 1
+      },
+      {
+        "value": "Свежесть",
+        "weight": 1
+      },
+      {
+        "value": "Сводка",
+        "weight": 1
+      },
+      {
+        "value": "Северный",
+        "weight": 1
+      },
+      {
+        "value": "Серая",
+        "weight": 1
+      },
+      {
+        "value": "Синоптик",
+        "weight": 1
+      },
+      {
+        "value": "Синоптики",
+        "weight": 1
+      },
+      {
+        "value": "Слякоть",
+        "weight": 1
+      },
+      {
+        "value": "Смена",
+        "weight": 1
+      },
+      {
+        "value": "Смерч",
+        "weight": 1
+      },
+      {
+        "value": "Снег",
+        "weight": 1
+      },
+      {
+        "value": "Снегопад",
+        "weight": 1
+      },
+      {
+        "value": "Снежинки",
+        "weight": 1
+      },
+      {
+        "value": "Солнечная",
+        "weight": 1
+      },
+      {
+        "value": "Солнечная погода",
+        "weight": 1
+      },
+      {
+        "value": "Солнечно",
+        "weight": 1
+      },
+      {
+        "value": "Солнечный",
+        "weight": 1
+      },
+      {
+        "value": "Солнце",
+        "weight": 1
+      },
+      {
+        "value": "Солнышко",
+        "weight": 1
+      },
+      {
+        "value": "Стихия",
+        "weight": 1
+      },
+      {
+        "value": "Стужа",
+        "weight": 1
+      },
+      {
+        "value": "Сфинкс",
+        "weight": 1
+      },
+      {
+        "value": "Сырой",
+        "weight": 1
+      },
+      {
+        "value": "Сырость",
+        "weight": 1
+      },
+      {
+        "value": "Табло",
+        "weight": 1
+      },
+      {
+        "value": "Тайфун",
+        "weight": 1
+      },
+      {
+        "value": "Телевизор",
+        "weight": 1
+      },
+      {
+        "value": "Температура",
+        "weight": 1
+      },
+      {
+        "value": "Тёплая",
+        "weight": 1
+      },
+      {
+        "value": "Тепло",
+        "weight": 1
+      },
+      {
+        "value": "Тёплое",
+        "weight": 1
+      },
+      {
+        "value": "Теплота",
+        "weight": 1
+      },
+      {
+        "value": "Тёплый",
+        "weight": 1
+      },
+      {
+        "value": "Термометр",
+        "weight": 1
+      },
+      {
+        "value": "Торнадо",
+        "weight": 1
+      },
+      {
+        "value": "Тропики",
+        "weight": 1
+      },
+      {
+        "value": "Туман",
+        "weight": 1
+      },
+      {
+        "value": "Туманность",
+        "weight": 1
+      },
+      {
+        "value": "Туча",
+        "weight": 1
+      },
+      {
+        "value": "Тучи",
+        "weight": 1
+      },
+      {
+        "value": "Тучка",
+        "weight": 1
+      },
+      {
+        "value": "Улица",
+        "weight": 1
+      },
+      {
+        "value": "Ураган",
+        "weight": 1
+      },
+      {
+        "value": "Условия",
+        "weight": 1
+      },
+      {
+        "value": "Утро",
+        "weight": 1
+      },
+      {
+        "value": "Ухудшение",
+        "weight": 1
+      },
+      {
+        "value": "Хандра",
+        "weight": 1
+      },
+      {
+        "value": "Холод",
+        "weight": 1
+      },
+      {
+        "value": "Холодная",
+        "weight": 1
+      },
+      {
+        "value": "Холодно",
+        "weight": 1
+      },
+      {
+        "value": "Холодное",
+        "weight": 1
+      },
+      {
+        "value": "Холодный",
+        "weight": 1
+      },
+      {
+        "value": "Холодок",
+        "weight": 1
+      },
+      {
+        "value": "Холодрыга",
+        "weight": 1
+      },
+      {
+        "value": "Хорошая",
+        "weight": 1
+      },
+      {
+        "value": "Хорошая погода",
+        "weight": 1
+      },
+      {
+        "value": "Хорошее",
+        "weight": 1
+      },
+      {
+        "value": "Хорошие",
+        "weight": 1
+      },
+      {
+        "value": "Хороший",
+        "weight": 1
+      },
+      {
+        "value": "Циклон",
+        "weight": 1
+      },
+      {
+        "value": "Цунами",
+        "weight": 1
+      },
+      {
+        "value": "Чистый воздух",
+        "weight": 1
+      },
+      {
+        "value": "Чудесный",
+        "weight": 1
+      },
+      {
+        "value": "Шарф",
+        "weight": 1
+      },
+      {
+        "value": "Шквал",
+        "weight": 1
+      },
+      {
+        "value": "Шторм",
+        "weight": 1
+      },
+      {
+        "value": "Юг",
+        "weight": 1
+      },
+      {
+        "value": "Явление",
+        "weight": 1
+      },
+      {
+        "value": "Яндекс",
+        "weight": 1
+      },
+      {
+        "value": "Яркая",
+        "weight": 1
+      },
+      {
+        "value": "Ясная",
+        "weight": 1
+      },
+      {
+        "value": "Ясно",
+        "weight": 1
+      }
+    ]
+  },
+  {
+    "id": "29c2949f-92c6-4480-bd6f-c53488920c3b",
+    "slug": "holidays",
+    "label": "Holidays",
+    "words": [
+      {
+        "value": "Акции",
+        "weight": 1
+      },
+      {
+        "value": "Антресоль",
+        "weight": 1
+      },
+      {
+        "value": "Атмосфера",
+        "weight": 1
+      },
+      {
+        "value": "Бенгальский огонь",
+        "weight": 1
+      },
+      {
+        "value": "Брызги",
+        "weight": 1
+      },
+      {
+        "value": "Бутерброды",
+        "weight": 1
+      },
+      {
+        "value": "Варежки",
+        "weight": 1
+      },
+      {
+        "value": "Веселье",
+        "weight": 1
+      },
+      {
+        "value": "Водка",
+        "weight": 1
+      },
+      {
+        "value": "Гирлянда",
+        "weight": 1
+      },
+      {
+        "value": "Гости",
+        "weight": 1
+      },
+      {
+        "value": "Дача",
+        "weight": 1
+      },
+      {
+        "value": "Дед Мороз",
+        "weight": 1
+      },
+      {
+        "value": "Детвора",
+        "weight": 1
+      },
+      {
+        "value": "Друзья",
+        "weight": 1
+      },
+      {
+        "value": "Еда",
+        "weight": 1
+      },
+      {
+        "value": "Ёлка",
+        "weight": 1
+      },
+      {
+        "value": "Звезда",
+        "weight": 1
+      },
+      {
+        "value": "Зима",
+        "weight": 1
+      },
+      {
+        "value": "Иголки",
+        "weight": 1
+      },
+      {
+        "value": "Игрушки",
+        "weight": 1
+      },
+      {
+        "value": "Икра",
+        "weight": 1
+      },
+      {
+        "value": "Искусственная ёлка",
+        "weight": 1
+      },
+      {
+        "value": "Кабак",
+        "weight": 1
+      },
+      {
+        "value": "Календарь",
+        "weight": 1
+      },
+      {
+        "value": "Карнавальный костюм",
+        "weight": 1
+      },
+      {
+        "value": "Коктейли",
+        "weight": 1
+      },
+      {
+        "value": "Конфетти",
+        "weight": 1
+      },
+      {
+        "value": "Конфеты",
+        "weight": 1
+      },
+      {
+        "value": "Корпоративы",
+        "weight": 1
+      },
+      {
+        "value": "Косяк",
+        "weight": 1
+      },
+      {
+        "value": "Куранты",
+        "weight": 1
+      },
+      {
+        "value": "Кутерьма",
+        "weight": 1
+      },
+      {
+        "value": "Кухня",
+        "weight": 1
+      },
+      {
+        "value": "Лыжи",
+        "weight": 1
+      },
+      {
+        "value": "Магазин",
+        "weight": 1
+      },
+      {
+        "value": "Мандарины",
+        "weight": 1
+      },
+      {
+        "value": "Марки",
+        "weight": 1
+      },
+      {
+        "value": "Маска",
+        "weight": 1
+      },
+      {
+        "value": "Метель",
+        "weight": 1
+      },
+      {
+        "value": "Мишура",
+        "weight": 1
+      },
+      {
+        "value": "Мороз",
+        "weight": 1
+      },
+      {
+        "value": "Мясо",
+        "weight": 1
+      },
+      {
+        "value": "Нарезка",
+        "weight": 1
+      },
+      {
+        "value": "Настроение",
+        "weight": 1
+      },
+      {
+        "value": "Новогоднее представление",
+        "weight": 1
+      },
+      {
+        "value": "Нож",
+        "weight": 1
+      },
+      {
+        "value": "Ночь",
+        "weight": 1
+      },
+      {
+        "value": "Ожиданье",
+        "weight": 1
+      },
+      {
+        "value": "Оливье",
+        "weight": 1
+      },
+      {
+        "value": "Открытки",
+        "weight": 1
+      },
+      {
+        "value": "Петарды",
+        "weight": 1
+      },
+      {
+        "value": "Пиво",
+        "weight": 1
+      },
+      {
+        "value": "Плита",
+        "weight": 1
+      },
+      {
+        "value": "Подарки",
+        "weight": 1
+      },
+      {
+        "value": "Поздравления",
+        "weight": 1
+      },
+      {
+        "value": "Покупки",
+        "weight": 1
+      },
+      {
+        "value": "Полночь",
+        "weight": 1
+      },
+      {
+        "value": "Постель",
+        "weight": 1
+      },
+      {
+        "value": "Посылки",
+        "weight": 1
+      },
+      {
+        "value": "Похмелье",
+        "weight": 1
+      },
+      {
+        "value": "Приглашения",
+        "weight": 1
+      },
+      {
+        "value": "Пробки",
+        "weight": 1
+      },
+      {
+        "value": "Пятница",
+        "weight": 1
+      },
+      {
+        "value": "Реклама",
+        "weight": 1
+      },
+      {
+        "value": "Ресторан",
+        "weight": 1
+      },
+      {
+        "value": "Рыба",
+        "weight": 1
+      },
+      {
+        "value": "Салазки",
+        "weight": 1
+      },
+      {
+        "value": "Салат",
+        "weight": 1
+      },
+      {
+        "value": "Санки",
+        "weight": 1
+      },
+      {
+        "value": "Свечи",
+        "weight": 1
+      },
+      {
+        "value": "Селедка под шубой",
+        "weight": 1
+      },
+      {
+        "value": "Серпантин",
+        "weight": 1
+      },
+      {
+        "value": "Скидки",
+        "weight": 1
+      },
+      {
+        "value": "Смех",
+        "weight": 1
+      },
+      {
+        "value": "Снег",
+        "weight": 1
+      },
+      {
+        "value": "Снегурочка",
+        "weight": 1
+      },
+      {
+        "value": "Снежки",
+        "weight": 1
+      },
+      {
+        "value": "Сок",
+        "weight": 1
+      },
+      {
+        "value": "Соседи",
+        "weight": 1
+      },
+      {
+        "value": "Такси",
+        "weight": 1
+      },
+      {
+        "value": "Телеграф",
+        "weight": 1
+      },
+      {
+        "value": "Телефон",
+        "weight": 1
+      },
+      {
+        "value": "Топор",
+        "weight": 1
+      },
+      {
+        "value": "Тост",
+        "weight": 1
+      },
+      {
+        "value": "Травмпункт",
+        "weight": 1
+      },
+      {
+        "value": "Традиции",
+        "weight": 1
+      },
+      {
+        "value": "Траты",
+        "weight": 1
+      },
+      {
+        "value": "Утро",
+        "weight": 1
+      },
+      {
+        "value": "Фейерверки",
+        "weight": 1
+      },
+      {
+        "value": "Шампанское",
+        "weight": 1
+      },
+      {
+        "value": "Шарики",
+        "weight": 1
+      },
+      {
+        "value": "Шарф",
+        "weight": 1
+      },
+      {
+        "value": "Шпроты",
+        "weight": 1
+      },
+      {
+        "value": "Щелкунчик",
+        "weight": 1
+      }
+    ]
+  }
+]
