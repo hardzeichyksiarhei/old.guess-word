@@ -1,6 +1,6 @@
 import Router from "./router/Router";
 
-import "./App.scss";
+import "./App.less";
 
 function App() {
   return (
