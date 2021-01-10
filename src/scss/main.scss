@@ -1,12 +1,5 @@
-@import 'variables';
-.mt-2 {
-    margin-top: 20px !important;
-}
-
-.mb-2 {
-    margin-bottom: 20px !important;
-}
-
+@import "variables";
+@import "spacing";
 .text-uppercase {
     text-transform: uppercase !important;
 }
@@ -21,8 +14,8 @@
     font-style: normal;
     font-weight: bold;
     font-size: 1.5rem;
-    line-height: 38px;
-    color: #3F414E;
+    line-height: 1rem;
+    color: #3f414e;
 }
 
 .page-description {
@@ -30,7 +23,7 @@
     font-weight: normal;
     font-size: 1.2rem;
     line-height: 2rem;
-    color: #A1A4B2;
+    color: #a1a4b2;
 }
 
 .page-content {
@@ -61,7 +54,7 @@
         font-size: 30px;
         line-height: 41px;
         text-align: center;
-        color: #3F414E;
+        color: #3f414e;
     }
     &__description {
         font-weight: lighter;
@@ -97,7 +90,7 @@
         font-size: 2rem;
         line-height: 2rem;
         text-align: center;
-        color: #3F414E;
+        color: #3f414e;
     }
     &__description {
         font-weight: lighter;
@@ -107,4 +100,10 @@
         color: #000;
         margin: 1rem 0 2rem;
     }
+}
+
+.img-fluid {
+    width: 100%;
+    height: auto;
+    display: block;
 }

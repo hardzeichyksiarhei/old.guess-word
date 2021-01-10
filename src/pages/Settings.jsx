@@ -9,18 +9,17 @@ import { Row, Col } from 'antd';
 const Settings = () => {
   return (
     <div className="settings-page">
-      <Row justify="center" align="center">
+      <Row justify="space-between" align="center">
         <Col span={12} >
           <div className="page-title">Раздевалка</div>
         </Col>
-        <Col span={12}>
+        <Col span={6}>
           <ButtonLink
-            className="mt-2 text-uppercase"
+            className="text-uppercase"
             linkTo="/rules"
             type="primary"
             shape="round"
             size="small"
-            block
           >
             Правила
           </ButtonLink>
