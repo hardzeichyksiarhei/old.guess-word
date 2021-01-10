@@ -13,12 +13,11 @@ const GameChoose = () => {
         </Col>
         <Col span={7}>
           <ButtonLink
-            className="text-uppercase"
+            className="text-uppercase btn-secondary"
             linkTo="/rules"
             type="primary"
             shape="round"
             size="small"
-            block
           >
             user1
           </ButtonLink>
@@ -29,17 +28,25 @@ const GameChoose = () => {
         Выберите слово для объяснения
       </div>
 
-        <div className="game-choose-page__content text-center py-1">
-            <h3>
-                Выходит на поле пользователь 
-            </h3>
-
-            <h1 className="py-1 text-uppercase">
-                <strong>
-                    user1
-                </strong>
-            </h1>
-        </div>
+      <div className="game-choose-page__content text-center py-1">
+        <Row className="game-choose-page__content-words">
+          <Col className="game-choose-page__content-singleword" span={24}>
+            Слово 1 
+          </Col>
+          <Col  className="game-choose-page__content-singleword" span={24}>
+            Слово 2
+          </Col>
+          <Col  className="game-choose-page__content-singleword" span={24}>
+            Слово 3
+          </Col>
+          <Col  className="game-choose-page__content-singleword" span={24}>
+            Слово 4
+          </Col>
+          <Col  className="game-choose-page__content-singleword" span={24}>
+            Слово 5
+          </Col>
+        </Row>
+      </div>
 
       <ButtonLink
         className="mt-2 text-uppercase"
