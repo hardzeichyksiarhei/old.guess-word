@@ -22,6 +22,7 @@ const Rules = () => {
             Побеждает тот, кто объяснит <strong>большее количество слов за меньшее время</strong>.
         </p>
       </div>
+      {/* нужна функция назад */}
       <ButtonLink linkTo="/settings" type="primary" shape="round" block>Понятно</ButtonLink>
     </div>
   );

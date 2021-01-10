@@ -13,6 +13,7 @@ const Rules = lazy(() =>
 
 const routes = () => [{
     path: "/",
+
     element: < Default / > ,
     children: [{
             path: "/",
