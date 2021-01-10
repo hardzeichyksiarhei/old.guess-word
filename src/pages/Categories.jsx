@@ -32,7 +32,7 @@ const Categories = () => {
 
       <ButtonLink
           className="mt-2 text-uppercase"
-          linkTo="/categories"
+          linkTo="/game-start"
           type="primary"
           shape="round"
           block

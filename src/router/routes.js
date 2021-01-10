@@ -11,6 +11,15 @@ const Settings = lazy(() =>
 const Rules = lazy(() =>
     import ("../pages/Rules"));
 
+const GameStart = lazy(() =>
+    import ("../pages/game/Start"));
+const GameChoose = lazy(() =>
+    import ("../pages/game/Choose"));
+const GameRound = lazy(() =>
+    import ("../pages/game/Round"));
+const GameOver = lazy(() =>
+    import ("../pages/game/Over"));
+
 const routes = () => [{
     path: "/",
 
@@ -26,11 +35,28 @@ const routes = () => [{
         {
             path: "/settings",
             element: < Settings / > ,
-        }, ,
+        },
         {
             path: "/rules",
             element: < Rules / > ,
         },
+        {
+            path: "/game-start",
+            element: < GameStart / > ,
+        },
+        {
+            path: "/game-choose",
+            element: < GameChoose / > ,
+        },
+        {
+            path: "/game-round",
+            element: < GameRound / > ,
+        },
+        {
+            path: "/game-over",
+            element: < GameOver / >
+        }
+
     ],
 }, ];
 
