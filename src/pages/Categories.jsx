@@ -1,32 +1,47 @@
-import React, { useEffect } from "react";
-import { useDispatch, useSelector } from 'react-redux'
+import React from "react";
+import CategoriesList from "../components/categories/CategoriesList";
 
-import * as categoryActions from '../store/actions/categories'
-import * as gameActions from '../store/actions/game'
-import categorySelectors from '../store/selectors/categories'
+import ButtonLink from "../components/ButtonLink"
+
+import { Row, Col } from "antd";
+
 
 const Categories = () => {
-    const dispatch = useDispatch();
 
-    const categories = useSelector(categorySelectors.categories)
+  return (
+    <div className="categories-page">
+      <Row justify="space-between" align="center">
+        <Col span={12}>
+          <div className="page-title">Тематика</div>
+        </Col>
+        <Col span={7}>
+          <ButtonLink
+            className="text-uppercase"
+            linkTo="/rules"
+            type="primary"
+            shape="round"
+            size="small"
+            block
+          >
+            Правила
+          </ButtonLink>
+        </Col>
+      </Row>
 
+      <CategoriesList />
 
-    useEffect(() => {
-        dispatch(categoryActions.fetchCategories())
-    }, [dispatch])
+      <ButtonLink
+          className="mt-2 text-uppercase"
+          linkTo="/categories"
+          type="primary"
+          shape="round"
+          block
+        >
+          Далее
+        </ButtonLink>
 
-    const handleClickCategory = (category) => {
-        dispatch(gameActions.setCategory(category))
-    }
+    </div>
+  );
+};
 
-    return (
-        <div className="categories-page">
-            <h2>Categories</h2>
-            <div className="categories-list">
-                {categories.map(category => <h3 onClick={() => handleClickCategory(category)} key={category.id}>{ category.label }</h3>)}
-            </div>
-        </div>
-    )
-}
-
-export default Categories
+export default Categories;
