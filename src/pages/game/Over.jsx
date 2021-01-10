@@ -2,7 +2,7 @@ import React from "react";
 
 import ButtonLink from "../../components/ButtonLink";
 
-import { Row, Col, Space } from "antd";
+import { Row, Col } from "antd";
 
 const GameOver = () => {
   return (
@@ -25,17 +25,13 @@ const GameOver = () => {
         </Col>
       </Row>
 
-        <div className="game-over-page__content text-center py-1">
-            <h3>
-                Выходит на поле пользователь 
-            </h3>
+      <div className="game-over-page__content text-center py-1">
+        <h3>Выходит на поле пользователь</h3>
 
-            <h1 className="py-1 text-uppercase">
-                <strong>
-                    user1
-                </strong>
-            </h1>
-        </div>
+        <h1 className="py-1 text-uppercase">
+          <strong>user1</strong>
+        </h1>
+      </div>
 
       <ButtonLink
         className="mt-2 text-uppercase"

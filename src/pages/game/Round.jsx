@@ -25,6 +25,10 @@ const GameRound = () => {
         </Col>
       </Row>
 
+        <div className="page-description">
+            Объясните слово использую предложенную букву      
+        </div>
+
         <div className="game-round-page__content text-center py-1">
             <h3>
                 Выходит на поле пользователь 

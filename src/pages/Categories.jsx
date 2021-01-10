@@ -28,6 +28,10 @@ const Categories = () => {
         </Col>
       </Row>
 
+      <div className="page-description">
+        Выберите тематику матча
+      </div>
+
       <CategoriesList />
 
       <ButtonLink
