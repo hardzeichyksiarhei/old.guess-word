@@ -20,10 +20,14 @@ const GameChoose = () => {
             size="small"
             block
           >
-            Правила
+            user1
           </ButtonLink>
         </Col>
       </Row>
+
+      <div className="page-description">
+        Выберите слово для объяснения
+      </div>
 
         <div className="game-choose-page__content text-center py-1">
             <h3>
