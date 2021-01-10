@@ -3,11 +3,30 @@ import React from "react";
 import ButtonLink from "../components/ButtonLink"
 
 import PlayersList from "../components/players/PlayersList";
+import { Row, Col } from 'antd';
+
 
 const Settings = () => {
   return (
     <div className="settings-page">
-      <div className="page-title">Раздевалка</div>
+      <Row justify="space-between" align="center">
+        <Col span={12} >
+          <div className="page-title">Раздевалка</div>
+        </Col>
+        <Col span={6}>
+          <ButtonLink
+            className="text-uppercase"
+            linkTo="/rules"
+            type="primary"
+            shape="round"
+            size="small"
+          >
+            Правила
+          </ButtonLink>
+        </Col>
+      </Row>
+     
+      
       <div className="page-description">Настройка пользователей</div>
       <div className="page-content">
         <PlayersList />
