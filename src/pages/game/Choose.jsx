@@ -30,19 +30,19 @@ const GameChoose = () => {
 
       <div className="game-choose-page__content text-center py-1">
         <Row className="game-choose-page__content-words">
-          <Col className="game-choose-page__content-singleword" span={24}>
+          <Col className="game-choose-page__content-singleword " span={24}>
             Слово 1 
           </Col>
-          <Col  className="game-choose-page__content-singleword" span={24}>
+          <Col  className="game-choose-page__content-singleword " span={24}>
             Слово 2
           </Col>
-          <Col  className="game-choose-page__content-singleword" span={24}>
+          <Col  className="game-choose-page__content-singleword " span={24}>
             Слово 3
           </Col>
-          <Col  className="game-choose-page__content-singleword" span={24}>
+          <Col  className="game-choose-page__content-singleword " span={24}>
             Слово 4
           </Col>
-          <Col  className="game-choose-page__content-singleword" span={24}>
+          <Col  className="game-choose-page__content-singleword " span={24}>
             Слово 5
           </Col>
         </Row>
