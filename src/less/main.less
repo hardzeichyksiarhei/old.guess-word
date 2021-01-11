@@ -1,124 +1,142 @@
-@import "_variables"; 
+@import "_variables";
 @import "_spacing";
 @import "_typography";
 
+.img-fluid {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
 .default-layout {
-    padding: 30px;
-    max-width: 1024px;
-    margin: 0 auto;
+  padding: 30px;
+  max-width: 1024px;
+  margin: 0 auto;
 }
 
 .page-title {
-    font-style: normal;
-    font-weight: bold;
-    font-size: 1.5rem;
-    line-height: 1.5rem;
-    color: #3f414e;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 1.5rem;
+  line-height: 1.5rem;
+  color: #3f414e;
 }
 
 .page-description {
-    font-style: normal;
-    font-weight: lighter;
-    font-size: 1.2rem;
-    line-height: 1.5rem;
-    color: #A1A4B2;
-    padding: 1rem 0;
+  font-style: normal;
+  font-weight: lighter;
+  font-size: 1.2rem;
+  line-height: 1.5rem;
+  color: #a1a4b2;
+  padding: 1rem 0;
 }
 
 .page-content {
-    margin-top: 60px;
+  margin-top: 60px;
 }
-
 
 /* Welcome Page */
 
 .welcome-page {
-    &__app-logo {
-        display: block;
-        max-width: 600px;
-        width: 100%;
-        height: auto;
-        margin: 30px auto;
-    }
-    &__game-name {
-        font-weight: bold;
-        font-size: 20px;
-        line-height: 23px;
-        letter-spacing: 0.24em;
-        color: #000;
-        text-align: center;
-    }
-    &__title {
-        font-weight: normal;
-        font-size: 30px;
-        line-height: 41px;
-        text-align: center;
-        color: #3f414e;
-    }
-    &__description {
-        font-weight: lighter;
-        font-size: 16px;
-        line-height: 26px;
-        text-align: center;
-        color: #000;
-        margin: 30px 0;
-    }
+  &__app-logo {
+    display: block;
+    max-width: 600px;
+    width: 100%;
+    height: auto;
+    margin: 30px auto;
+  }
+  &__game-name {
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 23px;
+    letter-spacing: 0.24em;
+    color: #000;
+    text-align: center;
+  }
+  &__title {
+    font-weight: normal;
+    font-size: 30px;
+    line-height: 41px;
+    text-align: center;
+    color: #3f414e;
+  }
+  &__description {
+    font-weight: lighter;
+    font-size: 16px;
+    line-height: 26px;
+    text-align: center;
+    color: #000;
+    margin: 30px 0;
+  }
 }
-
 
 /* Welcome Page */
 
 .rules-page {
-    &__app-logo {
-        display: block;
-        max-width: 600px;
-        width: 100%;
-        height: auto;
-        margin: 30px auto;
-    }
-    &__game-name {
-        font-weight: bold;
-        font-size: 20px;
-        line-height: 23px;
-        letter-spacing: 0.24em;
-        color: #000;
-        text-align: center;
-    }
-    &__title {
-        font-weight: normal;
-        font-size: 2rem;
-        line-height: 2rem;
-        text-align: center;
-        color: #3f414e;
-    }
-    &__description {
-        font-weight: lighter;
-        font-size: 1rem;
-        line-height: 1.6rem;
-        text-align: left;
-        color: #000;
-        margin: 1rem 0 2rem;
-    }
-}
-
-.img-fluid {
+  &__app-logo {
+    display: block;
+    max-width: 600px;
     width: 100%;
     height: auto;
-    display: block;
-}
-
-
-.btn-secondary {
-    background: #C4E9D5;
-    border-color: #C4E9D5;
+    margin: 30px auto;
+  }
+  &__game-name {
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 23px;
+    letter-spacing: 0.24em;
     color: #000;
+    text-align: center;
+  }
+  &__title {
+    font-weight: normal;
+    font-size: 2rem;
+    line-height: 2rem;
+    text-align: center;
+    color: #3f414e;
+  }
+  &__description {
+    font-weight: lighter;
+    font-size: 1rem;
+    line-height: 1.6rem;
+    text-align: left;
+    color: #000;
+    margin: 1rem 0 2rem;
+  }
 }
 
-
-
-.game-choose-page__content-singleword {
-    background: #ccc;
+.game-choose-page__content {
+  &-singleword {
+    background: #c4e9d5;
     padding: 1.3rem 1rem;
     margin: 1rem 0;
     border-radius: 0.6rem;
+  }
+  &-singleword:nth-child(2) {
+    background: #f3cfca;
+  }
+  &-singleword:nth-child(3) {
+    background: #eef3d2;
+  }
+  &-singleword:nth-child(4) {
+    background: #d9dff8;
+  }
+  &-singleword:nth-child(5) {
+    background: #e2ccf4;
+  }
+  &-singleword:nth-child(6) {
+    background: #cce6f4;
+  }
+}
+
+.game-round-page__content-word,
+.game-round-page__content-letter {
+  color: #808aff !important;
+  text-transform: uppercase !important;
+  font-weight: 700;
+}
+
+.game-over-page__content-winner {
+  background: #c4e9d5;
+  border-radius: 1rem;
 }

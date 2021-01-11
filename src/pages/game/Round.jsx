@@ -13,14 +13,13 @@ const GameRound = () => {
         </Col>
         <Col span={7}>
           <ButtonLink
-            className="text-uppercase"
+            className="text-uppercase btn-secondary"
             linkTo="/rules"
             type="primary"
             shape="round"
             size="small"
-            block
           >
-            Правила
+            user1
           </ButtonLink>
         </Col>
       </Row>
@@ -30,15 +29,29 @@ const GameRound = () => {
         </div>
 
         <div className="game-round-page__content text-center py-1">
-            <h3>
-                Выходит на поле пользователь 
-            </h3>
-
-            <h1 className="py-1 text-uppercase">
-                <strong>
-                    user1
-                </strong>
-            </h1>
+           <div className="">
+              <p>Ваше слово</p>
+           </div>
+           <div>
+              <h1 className="game-round-page__content-word">
+                Очень большое слово
+              </h1>
+           </div>
+           <div className="">
+              <p>
+                Ваша буква
+              </p>
+           </div>
+           <div>
+              <h1 className="game-round-page__content-letter">
+                M
+              </h1>
+           </div>
+           <div className="">
+             <h1>
+              Секундант
+             </h1>
+           </div>
         </div>
 
       <ButtonLink
@@ -48,7 +61,17 @@ const GameRound = () => {
         shape="round"
         block
       >
-        Выхожу на поле
+        Угадали
+      </ButtonLink>
+
+      <ButtonLink
+        className="mt-2 text-black text-uppercase" 
+        linkTo="/game-over"
+        type="link"
+        shape="round"
+        block
+      >
+        Не угадали
       </ButtonLink>
     </div>
   );
