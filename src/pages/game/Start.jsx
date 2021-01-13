@@ -15,10 +15,10 @@ const GameStart = () => {
   const players = useSelector(playerSelectors.players)
   const step = useSelector(gameSelectors.step)
 
-  const user = useSelector(gameSelectors.user)
+  const player = useSelector(gameSelectors.player)
 
   useEffect(() => {
-    dispatch(gameActions.setUser(players[step]))
+    dispatch(gameActions.setPlayer(players[step]))
   }, [dispatch, players, step])
 
   return (
@@ -45,7 +45,7 @@ const GameStart = () => {
         <h3>Выходит на поле пользователь</h3>
 
         <h1 className="py-1 text-uppercase">
-          <strong>{ user?.name }</strong>
+          <strong>{ player?.name }</strong>
         </h1>
       </div>
 

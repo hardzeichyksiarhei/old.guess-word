@@ -55,7 +55,7 @@ const reducer = (state = initialState, action) => {
     // Update player
     case types.UPDATE_PLAYER: {
       return {
-        ...state.players,
+        ...state,
         players: state.players.map((player) =>
           player.id === action.payload.playerId
             ? {

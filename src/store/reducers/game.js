@@ -3,22 +3,32 @@ import * as types from "../types/game";
 import { generateWordsByCategory } from "../../helpers";
 
 const initialState = {
-  user: null,
+  player: null,
   category: null,
   words: [],
   word: {},
-  letter: "",
 
   step: 0,
 };
 
 const reducer = (state = initialState, action) => {
   switch (action.type) {
-    /* Set user */
-    case types.SET_USER: {
+    /* Set player */
+    case types.SET_PLAYER: {
       return {
         ...state,
-        user: action.payload.user,
+        player: action.payload.player,
+      };
+    }
+
+    /* Update player */
+    case types.UPDATE_PLAYER: {
+      return {
+        ...state,
+        player: {
+          ...state.player,
+          ...action.payload.player,
+        },
       };
     }
 
@@ -35,6 +45,14 @@ const reducer = (state = initialState, action) => {
       return {
         ...state,
         words: generateWordsByCategory(state.category),
+      };
+    }
+
+    /* Set word */
+    case types.SET_WORD: {
+      return {
+        ...state,
+        word: action.payload.word,
       };
     }
 
