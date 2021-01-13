@@ -1,10 +1,26 @@
-import React from "react";
+import React, { useEffect } from "react";
+import { useDispatch, useSelector } from 'react-redux'
+
+import { Row, Col } from "antd";
+
+import * as gameActions from "../../store/actions/game";
+import playerSelectors from "../../store/selectors/players";
+import gameSelectors from "../../store/selectors/game";
 
 import ButtonLink from "../../components/ButtonLink";
 
-import { Row, Col, Space } from "antd";
-
 const GameStart = () => {
+  const dispatch = useDispatch()
+  
+  const players = useSelector(playerSelectors.players)
+  const step = useSelector(gameSelectors.step)
+
+  const user = useSelector(gameSelectors.user)
+
+  useEffect(() => {
+    dispatch(gameActions.setUser(players[step]))
+  }, [dispatch, players, step])
+
   return (
     <div className="game-start-page">
       <Row justify="space-between" align="center">
@@ -25,17 +41,13 @@ const GameStart = () => {
         </Col>
       </Row>
 
-        <div className="game-start-page__content text-center py-1">
-            <h3>
-                Выходит на поле пользователь 
-            </h3>
+      <div className="game-start-page__content text-center py-1">
+        <h3>Выходит на поле пользователь</h3>
 
-            <h1 className="py-1 text-uppercase">
-                <strong>
-                    user1
-                </strong>
-            </h1>
-        </div>
+        <h1 className="py-1 text-uppercase">
+          <strong>{ user?.name }</strong>
+        </h1>
+      </div>
 
       <ButtonLink
         className="mt-2 text-uppercase"

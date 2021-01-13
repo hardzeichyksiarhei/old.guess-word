@@ -8,9 +8,9 @@ import categorySelectors from "../../store/selectors/categories";
 
 import CategoryItem from "./CategoryItem";
 
-import { Row } from "antd";
+import { Row, Col } from "antd";
 
-import "./style.scss"
+import "./style.scss";
 
 const CategoriesList = () => {
   const dispatch = useDispatch();
@@ -22,9 +22,15 @@ const CategoriesList = () => {
 
   return (
     <div className="categories-list py-2">
-      <Row gutter={[16,16]}>
+      <Row gutter={[16, 16]}>
         {categories.map((category) => (
-            <CategoryItem category={category} key={category.id} />
+          <Col
+            span={category.slug === "all" ? 24 : 12}
+            className="category-item gutter-row"
+            key={category.id}
+          >
+            <CategoryItem category={category} />
+          </Col>
         ))}
       </Row>
     </div>

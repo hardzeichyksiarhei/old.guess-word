@@ -2,7 +2,7 @@ import React from "react";
 
 import ButtonLink from "../../components/ButtonLink";
 
-import { Row, Col, Space } from "antd";
+import { Row, Col } from "antd";
 
 const GameRound = () => {
   return (

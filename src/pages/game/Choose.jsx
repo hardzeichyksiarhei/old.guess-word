@@ -1,10 +1,23 @@
-import React from "react";
+import React, { useEffect } from "react";
+import { useDispatch, useSelector } from "react-redux";
+
+import { Row, Col } from "antd";
 
 import ButtonLink from "../../components/ButtonLink";
 
-import { Row, Col, Space } from "antd";
+import * as gameActions from "../../store/actions/game";
+import gameSelectors from "../../store/selectors/game";
 
 const GameChoose = () => {
+  const dispatch = useDispatch();
+
+  const user = useSelector(gameSelectors.user);
+  const words = useSelector(gameSelectors.words);
+
+  useEffect(() => {
+    dispatch(gameActions.setWords());
+  }, [dispatch]);
+
   return (
     <div className="game-choose-page">
       <Row justify="space-between" align="center">
@@ -19,32 +32,20 @@ const GameChoose = () => {
             shape="round"
             size="small"
           >
-            user1
+            { user?.name }
           </ButtonLink>
         </Col>
       </Row>
 
-      <div className="page-description">
-        Выберите слово для объяснения
-      </div>
+      <div className="page-description">Выберите слово для объяснения</div>
 
       <div className="game-choose-page__content text-center py-1">
         <Row className="game-choose-page__content-words">
-          <Col className="game-choose-page__content-singleword " span={24}>
-            Слово 1 
-          </Col>
-          <Col  className="game-choose-page__content-singleword " span={24}>
-            Слово 2
-          </Col>
-          <Col  className="game-choose-page__content-singleword " span={24}>
-            Слово 3
-          </Col>
-          <Col  className="game-choose-page__content-singleword " span={24}>
-            Слово 4
-          </Col>
-          <Col  className="game-choose-page__content-singleword " span={24}>
-            Слово 5
-          </Col>
+          {words.map((word) => (
+            <Col className="game-choose-page__content-singleword " span={24}>
+              { word?.value }
+            </Col>
+          ))}
         </Row>
       </div>
 
