@@ -83,7 +83,8 @@ const GameRound = () => {
           minutes={0}
           hours={0}
           onChange={({ hours, minutes, seconds }) => {
-            time = seconds + minutes * 60 * hours * 3600
+            console.log(minutes);
+            time = seconds + minutes * 60 + hours * 3600
           }}
           render={({ formatted }) => {
             return (<h1>{formatted}</h1>);
